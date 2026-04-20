@@ -15,8 +15,8 @@ Here are some of my projects, ranging from AI research to system development:
 - 🎓 [THU-resources](https://github.com/wolfvoid/THU-resources) - Archive of graduate coursework, papers and research resources at **Tsinghua University**.
 
 #### 🚀 Research & AI Projects
+- 👒 [FashionMV](https://github.com/yuandaxia2001/FashionMV) - **Pro**duct-Level **C**omposed **I**mage **R**etrieval with **M**ulti-**V**iew **Fashion** Data.
 - 🤖 [FMU-Agent](https://github.com/wolfvoid/FMU-Agent) - **Fine-grained Multimodal Understanding Agent** based on Qwen-3VL and SAM2.
-- 🎞️ [FrameSeeker-vRAG](https://github.com/wolfvoid/FrameSeeker-vRAG) - **Frame-level** multimodal retrieval system for long videos using VideoRAG.
 
 #### 🛠️ Engineering & Systems
 - 🌾 [HNU-CF4SeedLLM](https://github.com/wolfvoid/HNU-CF4SeedLLM) - **Clean Framework for Seed LLM.** Automated dataset cleaning pipeline.
