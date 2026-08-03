@@ -12,7 +12,7 @@ Scan the QR code for referrals and Join the Q&A group.
 
 | Referral Code | Q&A Group |
 |------|------|
-| <img width="100" src="https://github.com/user-attachments/assets/3ce917e3-ee77-4c79-b59e-c285a6182949" /> | <img width="100" src="https://github.com/user-attachments/assets/3e82ce1d-a05e-457a-aa8e-49080d0a0036" /> |
+| <img width="100" src="https://github.com/user-attachments/assets/10bf70c4-457b-4b50-a32d-0fb3e770fcac" /> | <img width="100" src="https://github.com/user-attachments/assets/3e82ce1d-a05e-457a-aa8e-49080d0a0036" /> |
 
 ---
 
