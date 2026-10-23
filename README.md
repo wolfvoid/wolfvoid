@@ -6,46 +6,57 @@ I am a student manifesting dense interest in AIGC and ACGN.
 
 ---
 
-### 🔥 [⏰Limited Time] Hiring mihoyo Employees！！！
-
-Scan the QR code for referrals and Join the Q&A group.
-
-| Referral Code | Q&A Group |
-|------|------|
-| <img width="100" src="https://github.com/user-attachments/assets/10bf70c4-457b-4b50-a32d-0fb3e770fcac" /> | <img width="100" src="https://github.com/user-attachments/assets/3e82ce1d-a05e-457a-aa8e-49080d0a0036" /> |
-
----
+**Currently exploring:** multimodal retrieval, vision-language models, and image generation.
 
 ### 📂 Featured Repositories
 
-Here are some of my projects, ranging from AI research to system development:
-
 #### 📚 Open Source & Resources
-- 🏫 [HNU-resourses](https://github.com/wolfvoid/HNU-resourses) - Comprehensive collection of course materials, codes and exams at **Hunan University**.
-- 🎓 [THU-resources](https://github.com/wolfvoid/THU-resources) - Archive of graduate coursework, papers and research resources at **Tsinghua University**.
 
-#### 🚀 Research & AI Projects
-- 👒 [FashionMV](https://github.com/yuandaxia2001/FashionMV) - **Pro**duct-Level **C**omposed **I**mage **R**etrieval with **M**ulti-**V**iew **Fashion** Data.
-- 🤖 [FMU-Agent](https://github.com/wolfvoid/FMU-Agent) - **Fine-grained Multimodal Understanding Agent** based on Qwen-3VL and SAM2.
+- [HNU-resources](https://github.com/wolfvoid/HNU-resources) — Course materials, code, and past exams.
+- [THU-resources](https://github.com/wolfvoid/THU-resources) — Graduate coursework and research resources.
 
-#### 🛠️ Engineering & Systems
-- 🌾 [HNU-CF4SeedLLM](https://github.com/wolfvoid/HNU-CF4SeedLLM) - **Clean Framework for Seed LLM.** Automated dataset cleaning pipeline.
-- 🗺️ [HNU-SPS](https://github.com/wolfvoid/HNU-SPS) - **Spatiotemporal Prediction System.** Data-driven analysis and forecasting of distributions.
-- 🚦 [HNU-ITPS](https://github.com/wolfvoid/HNU-ITPS) - **Intelligent Traffic Prediction System.** Big Data analysis with Vue-based visualization.
-- ⌚ [HNU-STC_project](https://github.com/wolfvoid/HNU-STC_project) - Embedded smartwatch system based on **STC15** microcontroller with OLED.
-- 🗃️ [HNU-SIMS](https://github.com/wolfvoid/HNU-SIMS) - **School Information Management System.** Integrated platform for student data records.
-- 📖 [HNU-LMS](https://github.com/wolfvoid/HNU-LMS) - **Library Management System.** Robust, interactive console app in C/C++.
-- 🍄 [HNU-ResNet-mushroom-classifier](https://github.com/wolfvoid/HNU-ResNet-mushroom-classifier) - Poisonous mushroom classification using ResNet.
+#### 🔬 Research
+
+- [FashionMV](https://github.com/yuandaxia2001/FashionMV) — Product-level composed image retrieval with multi-view fashion data. [Paper](https://arxiv.org/abs/2604.10297) · [Dataset](https://huggingface.co/datasets/yuandaxia/FashionMV)
+
+#### 🛠️ Projects
+
+- [FMU-Agent](https://github.com/wolfvoid/FMU-Agent) — Interactive, fine-grained visual understanding with Qwen3-VL and SAM2.
+- [HNU-STC_project](https://github.com/wolfvoid/HNU-STC_project) — An STC15-based smartwatch with an OLED display. [Demo](https://www.bilibili.com/video/BV1Kp4y1P7hG/)
 
 ---
 
+### 📊 GitHub & LeetCode
 
-### 📊 GitHub Stats
+<p>
+  <a href="https://github.com/wolfvoid?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wolfvoid/wolfvoid/master/profile-summary-card-output/github_dark/3-stats.svg">
+      <img width="272" alt="Wolf's GitHub statistics" src="https://raw.githubusercontent.com/wolfvoid/wolfvoid/master/profile-summary-card-output/github/3-stats.svg">
+    </picture>
+  </a>
+  <a href="https://leetcode.cn/arctic_wolf/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/arctic_wolf?site=cn&amp;theme=dark&amp;font=Noto%20Sans&amp;animation=false">
+      <img width="400" alt="Wolf's LeetCode statistics" src="https://leetcard.jacoblin.cool/arctic_wolf?site=cn&amp;theme=light&amp;font=Noto%20Sans&amp;animation=false">
+    </picture>
+  </a>
+</p>
 
-[![](https://raw.githubusercontent.com/wolfvoid/wolfvoid/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/wolfvoid/wolfvoid/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/wolfvoid/wolfvoid/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+<details>
+<summary>More GitHub activity</summary>
 
-### 💡 Leetcode 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wolfvoid/wolfvoid/master/profile-summary-card-output/github_dark/0-profile-details.svg">
+    <img width="700" alt="GitHub contribution history" src="https://raw.githubusercontent.com/wolfvoid/wolfvoid/master/profile-summary-card-output/github/0-profile-details.svg">
+  </picture>
+</p>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wolfvoid/wolfvoid/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <img width="340" alt="Languages used across repositories" src="https://raw.githubusercontent.com/wolfvoid/wolfvoid/master/profile-summary-card-output/github/1-repos-per-language.svg">
+  </picture>
+</p>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/arctic_wolf?site=cn)](https://leetcode.cn/arctic_wolf/)
+</details>
