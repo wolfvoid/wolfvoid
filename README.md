@@ -17,9 +17,7 @@ I am a student manifesting dense interest in AIGC and ACGN.
 
 #### 🔬 Research
 
-- [FashionMV](https://github.com/yuandaxia2001/FashionMV) — Product-level composed image retrieval with multi-view fashion data.
-
-  [![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.10297) [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-FFD21E)](https://huggingface.co/datasets/yuandaxia/FashionMV)
+- [FashionMV](https://github.com/yuandaxia2001/FashionMV) — Product-level composed image retrieval with multi-view fashion data. <a href="https://arxiv.org/abs/2604.10297"><img height="16" alt="arXiv paper" src="https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&amp;logoColor=white"></a> <a href="https://huggingface.co/datasets/yuandaxia/FashionMV"><img height="16" alt="Hugging Face dataset" src="https://img.shields.io/badge/%F0%9F%A4%97-Dataset-FFD21E"></a>
 
 #### 🛠️ Projects
 
