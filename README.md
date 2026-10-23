@@ -2,7 +2,7 @@
 
 I am a student manifesting dense interest in AIGC and ACGN.
 
-🚀welcome to my [homepage](https://wolfvoid.github.io/) and [CSDN](https://blog.csdn.net/qq_39480177).
+🚀welcome to my [🏠 homepage](https://wolfvoid.github.io/) and [✍️ CSDN](https://blog.csdn.net/qq_39480177).
 
 ---
 
@@ -17,12 +17,14 @@ I am a student manifesting dense interest in AIGC and ACGN.
 
 #### 🔬 Research
 
-- [FashionMV](https://github.com/yuandaxia2001/FashionMV) — Product-level composed image retrieval with multi-view fashion data. [Paper](https://arxiv.org/abs/2604.10297) · [Dataset](https://huggingface.co/datasets/yuandaxia/FashionMV)
+- [FashionMV](https://github.com/yuandaxia2001/FashionMV) — Product-level composed image retrieval with multi-view fashion data.
+
+  [![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.10297) [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-FFD21E)](https://huggingface.co/datasets/yuandaxia/FashionMV)
 
 #### 🛠️ Projects
 
 - [FMU-Agent](https://github.com/wolfvoid/FMU-Agent) — Interactive, fine-grained visual understanding with Qwen3-VL and SAM2.
-- [HNU-STC_project](https://github.com/wolfvoid/HNU-STC_project) — An STC15-based smartwatch with an OLED display. [Demo](https://www.bilibili.com/video/BV1Kp4y1P7hG/)
+- [HNU-STC_project](https://github.com/wolfvoid/HNU-STC_project) — An STC15-based smartwatch with an OLED display. [▶️ Demo](https://www.bilibili.com/video/BV1Kp4y1P7hG/)
 
 ---
 
