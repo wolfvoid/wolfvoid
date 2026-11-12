@@ -12,17 +12,17 @@ I am a student manifesting dense interest in AIGC and ACGN.
 
 #### 📚 Open Source & Resources
 
-- [HNU-resources](https://github.com/wolfvoid/HNU-resources) — Course materials, code, and past exams.
-- [THU-resources](https://github.com/wolfvoid/THU-resources) — Graduate coursework and research resources.
+- [HNU-resources](https://github.com/wolfvoid/HNU-resources) — Course materials, code, and past exams. <a href="https://github.com/wolfvoid/HNU-resources"><img height="20" alt="GitHub stars" src="https://img.shields.io/github/stars/wolfvoid/HNU-resources?style=social"></a>
+- [THU-resources](https://github.com/wolfvoid/THU-resources) — Graduate coursework and research resources. <a href="https://github.com/wolfvoid/THU-resources"><img height="20" alt="GitHub stars" src="https://img.shields.io/github/stars/wolfvoid/THU-resources?style=social"></a>
 
 #### 🔬 Research
 
-- [FashionMV](https://github.com/yuandaxia2001/FashionMV) — Product-level composed image retrieval with multi-view fashion data. <a href="https://arxiv.org/abs/2604.10297"><img height="16" alt="arXiv paper" src="https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&amp;logoColor=white"></a> <a href="https://huggingface.co/datasets/yuandaxia/FashionMV"><img height="16" alt="Hugging Face dataset" src="https://img.shields.io/badge/%F0%9F%A4%97-Dataset-FFD21E"></a>
+- [FashionMV](https://github.com/yuandaxia2001/FashionMV) — Product-level composed image retrieval with multi-view fashion data. <a href="https://arxiv.org/abs/2604.10297"><img height="16" alt="arXiv paper" src="https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&amp;logoColor=white"></a> <a href="https://huggingface.co/datasets/yuandaxia/FashionMV"><img height="16" alt="Hugging Face dataset" src="https://img.shields.io/badge/%F0%9F%A4%97-Dataset-FFD21E"></a> <a href="https://github.com/yuandaxia2001/FashionMV"><img height="20" alt="GitHub stars" src="https://img.shields.io/github/stars/yuandaxia2001/FashionMV?style=social"></a>
 
 #### 🛠️ Projects
 
-- [FMU-Agent](https://github.com/wolfvoid/FMU-Agent) — Interactive, fine-grained visual understanding with Qwen3-VL and SAM2.
-- [HNU-STC_project](https://github.com/wolfvoid/HNU-STC_project) — An STC15-based smartwatch with an OLED display. [▶️ Demo](https://www.bilibili.com/video/BV1Kp4y1P7hG/)
+- [FMU-Agent](https://github.com/wolfvoid/FMU-Agent) — Interactive, fine-grained visual understanding with Qwen3-VL and SAM2. <a href="https://github.com/wolfvoid/FMU-Agent"><img height="20" alt="GitHub stars" src="https://img.shields.io/github/stars/wolfvoid/FMU-Agent?style=social"></a>
+- [HNU-STC_project](https://github.com/wolfvoid/HNU-STC_project) — An STC15-based smartwatch with an OLED display. [▶️ Demo](https://www.bilibili.com/video/BV1Kp4y1P7hG/) <a href="https://github.com/wolfvoid/HNU-STC_project"><img height="20" alt="GitHub stars" src="https://img.shields.io/github/stars/wolfvoid/HNU-STC_project?style=social"></a>
 
 ---
 
