@@ -24,7 +24,7 @@ I am a student manifesting dense interest in AIGC and ACGN.
 - [FMU-Agent](https://github.com/wolfvoid/FMU-Agent) — Interactive, fine-grained visual understanding with Qwen3-VL and SAM2. <a href="https://github.com/wolfvoid/FMU-Agent"><img height="20" alt="GitHub stars" src="https://img.shields.io/github/stars/wolfvoid/FMU-Agent?style=social"></a>
 - [HNU-STC_project](https://github.com/wolfvoid/HNU-STC_project) — An STC15-based smartwatch with an OLED display. [▶️ Demo](https://www.bilibili.com/video/BV1Kp4y1P7hG/) <a href="https://github.com/wolfvoid/HNU-STC_project"><img height="20" alt="GitHub stars" src="https://img.shields.io/github/stars/wolfvoid/HNU-STC_project?style=social"></a>
 
-### 🎨 Interests
+#### 🎨 Interests
 
 - [magpie-DaFeiYu](https://github.com/wolfvoid/magpie-DaFeiYu) — A desktop pet for Windows and macOS that turns AI activity into a big blue fish on your desk. <a href="https://github.com/wolfvoid/magpie-DaFeiYu"><img height="20" alt="GitHub stars" src="https://img.shields.io/github/stars/wolfvoid/magpie-DaFeiYu?style=social"></a>
 
