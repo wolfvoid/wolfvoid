@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="371" viewBox="0 0 520 371" role="img" aria-labelledby="title desc">
-<title id="title">Magpie AI Usage Statistics</title><desc id="desc">LAST 30 DAYS: 138529516 tokens, 21067 requests, 30 active days. Tokens equal input plus output.</desc>
+<title id="title">Magpie AI Usage Statistics</title><desc id="desc">LAST 30 DAYS: 138544211 tokens, 21076 requests, 30 active days. Tokens equal input plus output.</desc>
 <defs><linearGradient id="accent"><stop stop-color="#7C3AED"/><stop offset=".55" stop-color="#6388EE"/><stop offset="1" stop-color="#0891B2"/></linearGradient><linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#7C3AED" stop-opacity=".25"/><stop offset="1" stop-color="#0891B2" stop-opacity=".015"/></linearGradient><radialGradient id="glow"><stop stop-color="#7C3AED" stop-opacity=".09"/><stop offset="1" stop-color="#F8FAFC" stop-opacity="0"/></radialGradient><clipPath id="card"><rect x=".5" y=".5" width="519" height="370" rx="16"/></clipPath></defs>
 <g clip-path="url(#card)"><rect width="520" height="371" fill="#F8FAFC"/><ellipse cx="416" cy="0" rx="338" ry="296.8" fill="url(#glow)"/><g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"><path d="M26 29l7-9 7 9-7 9z" fill="url(#accent)"/>
 <text x="49" y="33" font-size="14" fill="#0F172A" font-weight="750" letter-spacing="2">MAGPIE</text>
@@ -15,18 +15,18 @@
 <text x="26" y="144" font-size="9" fill="#53647B" letter-spacing="1.5">TOKEN ACTIVITY</text>
 <path d="M26 173H494" stroke="#DBE3ED" stroke-dasharray="2 5"/>
 <path d="M26 190H494" stroke="#DBE3ED" stroke-dasharray="2 5"/>
-<path d="M26,190 L26.00,185.37 L42.14,187.08 L58.28,184.49 L74.41,187.75 L90.55,178.70 L106.69,183.29 L122.83,183.06 L138.97,172.19 L155.10,163.62 L171.24,168.14 L187.38,186.75 L203.52,172.54 L219.66,188.44 L235.79,187.68 L251.93,185.84 L268.07,185.94 L284.21,189.11 L300.34,184.34 L316.48,184.60 L332.62,179.67 L348.76,173.43 L364.90,163.59 L381.03,156.00 L397.17,167.85 L413.31,168.27 L429.45,184.11 L445.59,181.36 L461.72,183.69 L477.86,179.28 L494.00,157.83 L494,190Z" fill="url(#area)"/>
-<polyline points="26.00,185.37 42.14,187.08 58.28,184.49 74.41,187.75 90.55,178.70 106.69,183.29 122.83,183.06 138.97,172.19 155.10,163.62 171.24,168.14 187.38,186.75 203.52,172.54 219.66,188.44 235.79,187.68 251.93,185.84 268.07,185.94 284.21,189.11 300.34,184.34 316.48,184.60 332.62,179.67 348.76,173.43 364.90,163.59 381.03,156.00 397.17,167.85 413.31,168.27 429.45,184.11 445.59,181.36 461.72,183.69 477.86,179.28 494.00,157.83" fill="none" stroke="url(#accent)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M26,190 L26.00,185.37 L42.14,187.08 L58.28,184.49 L74.41,187.75 L90.55,178.70 L106.69,183.29 L122.83,183.06 L138.97,172.19 L155.10,163.62 L171.24,168.14 L187.38,186.75 L203.52,172.54 L219.66,188.44 L235.79,187.68 L251.93,185.84 L268.07,185.94 L284.21,189.11 L300.34,184.34 L316.48,184.60 L332.62,179.67 L348.76,173.43 L364.90,163.59 L381.03,156.00 L397.17,167.85 L413.31,168.27 L429.45,184.11 L445.59,181.36 L461.72,183.69 L477.86,179.28 L494.00,157.79 L494,190Z" fill="url(#area)"/>
+<polyline points="26.00,185.37 42.14,187.08 58.28,184.49 74.41,187.75 90.55,178.70 106.69,183.29 122.83,183.06 138.97,172.19 155.10,163.62 171.24,168.14 187.38,186.75 203.52,172.54 219.66,188.44 235.79,187.68 251.93,185.84 268.07,185.94 284.21,189.11 300.34,184.34 316.48,184.60 332.62,179.67 348.76,173.43 364.90,163.59 381.03,156.00 397.17,167.85 413.31,168.27 429.45,184.11 445.59,181.36 461.72,183.69 477.86,179.28 494.00,157.79" fill="none" stroke="url(#accent)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
 <text x="26" y="208" font-size="9" fill="#53647B" letter-spacing="1.5">TOP MODELS</text>
 <text x="494" y="208" font-size="8" fill="#53647B" text-anchor="end" letter-spacing="1">% OF TOKENS</text>
 <text x="26" y="228" font-size="10" fill="#0F172A" >gpt-6-astra</text>
-<rect x="227" y="221" width="225" height="5" rx="2.5" fill="#DBE3ED"/><rect x="227" y="221" width="86.32" height="5" rx="2.5" fill="url(#accent)"/>
+<rect x="227" y="221" width="225" height="5" rx="2.5" fill="#DBE3ED"/><rect x="227" y="221" width="86.34" height="5" rx="2.5" fill="url(#accent)"/>
 <text x="494" y="228" font-size="10" fill="#53647B" text-anchor="end">38.4%</text>
 <text x="26" y="250" font-size="10" fill="#0F172A" >gpt-6.1-sol</text>
-<rect x="227" y="243" width="225" height="5" rx="2.5" fill="#DBE3ED"/><rect x="227" y="243" width="52.77" height="5" rx="2.5" fill="url(#accent)"/>
-<text x="494" y="250" font-size="10" fill="#53647B" text-anchor="end">23.5%</text>
+<rect x="227" y="243" width="225" height="5" rx="2.5" fill="#DBE3ED"/><rect x="227" y="243" width="52.76" height="5" rx="2.5" fill="url(#accent)"/>
+<text x="494" y="250" font-size="10" fill="#53647B" text-anchor="end">23.4%</text>
 <text x="26" y="272" font-size="10" fill="#0F172A" >codex-auto-review</text>
-<rect x="227" y="265" width="225" height="5" rx="2.5" fill="#DBE3ED"/><rect x="227" y="265" width="27.20" height="5" rx="2.5" fill="url(#accent)"/>
+<rect x="227" y="265" width="225" height="5" rx="2.5" fill="#DBE3ED"/><rect x="227" y="265" width="27.19" height="5" rx="2.5" fill="url(#accent)"/>
 <text x="494" y="272" font-size="10" fill="#53647B" text-anchor="end">12.1%</text>
 <text x="26" y="297" font-size="8" fill="#53647B" letter-spacing="1">DAILY CALLS</text>
 <rect x="26.00" y="306" width="12.00" height="12.00" rx="2" fill="#7C3AED" fill-opacity="0.2"><title>2026-10-19: 153 requests</title></rect>
@@ -58,7 +58,7 @@
 <rect x="416.00" y="306" width="12.00" height="12.00" rx="2" fill="#7C3AED" fill-opacity="0.6529631607047517"><title>2026-11-14: 1223 requests</title></rect>
 <rect x="431.00" y="306" width="12.00" height="12.00" rx="2" fill="#7C3AED" fill-opacity="0.394554191137213"><title>2026-11-15: 739 requests</title></rect>
 <rect x="446.00" y="306" width="12.00" height="12.00" rx="2" fill="#7C3AED" fill-opacity="0.49172450613988256"><title>2026-11-16: 921 requests</title></rect>
-<rect x="461.00" y="306" width="12.00" height="12.00" rx="2" fill="#7C3AED" fill-opacity="0.9818473037907101"><title>2026-11-17: 1839 requests</title></rect>
+<rect x="461.00" y="306" width="12.00" height="12.00" rx="2" fill="#7C3AED" fill-opacity="0.9866524292578751"><title>2026-11-17: 1848 requests</title></rect>
 <path d="M26 335H494" stroke="#DBE3ED"/>
 <text x="26" y="354" font-size="8" fill="#53647B" letter-spacing="1">UPDATED 2026-11-17</text>
 <text x="494" y="354" font-size="8" fill="#53647B" text-anchor="end" letter-spacing="1">LOCAL → GITHUB</text></g></g><rect x=".5" y=".5" width="519" height="370" rx="16" fill="none" stroke="#DBE3ED"/>
