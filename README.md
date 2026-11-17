@@ -47,6 +47,19 @@ I am a student manifesting dense interest in AIGC and ACGN.
   </a>
 </p>
 
+<!-- magpie-github-stats:start -->
+### ◈ AI Usage
+
+<p align="center">
+  <a href="https://github.com/wolfvoid">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wolfvoid/wolfvoid/master/assets/magpie-dark.svg">
+      <img src="https://raw.githubusercontent.com/wolfvoid/wolfvoid/master/assets/magpie-light.svg" width="520" alt="Magpie AI Usage Statistics">
+    </picture>
+  </a>
+</p>
+<!-- magpie-github-stats:end -->
+
 <details>
 <summary>More GitHub activity</summary>
 
