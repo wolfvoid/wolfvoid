@@ -26,7 +26,7 @@ I am a student manifesting dense interest in AIGC and ACGN.
 
 #### 🎨 Interests
 
-- [magpie-DaFeiYu](https://github.com/wolfvoid/magpie-DaFeiYu) — A desktop pet for Windows and macOS that turns AI activity into a big blue fish on your desk. <a href="https://github.com/wolfvoid/magpie-DaFeiYu"><img height="20" alt="GitHub stars" src="https://img.shields.io/github/stars/wolfvoid/magpie-DaFeiYu?style=social"></a>
+- [magpie-DaFeiYu](https://github.com/wolfvoid/magpie-DaFeiYu) — "大肥鱼": a DeepSeek-chan desktop pet for Magpie, with quota display & interactions. <a href="https://github.com/wolfvoid/magpie-DaFeiYu"><img height="20" alt="GitHub stars" src="https://img.shields.io/github/stars/wolfvoid/magpie-DaFeiYu?style=social"></a> [![npm downloads](https://img.shields.io/npm/dt/magpie-dafeiyu?label=npm%20installs)](https://www.npmjs.com/package/magpie-dafeiyu)
 
 ---
 
