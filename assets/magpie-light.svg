@@ -1,426 +1,420 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="364" viewBox="0 0 520 364" role="img" aria-labelledby="title desc">
-<title id="title">Magpie AI Usage Statistics</title><desc id="desc">LAST 30 DAYS: 227399834 tokens, 35920 requests, 39 lifetime active days. Tokens equal input plus output.</desc>
+<title id="title">Magpie AI Usage Statistics</title><desc id="desc">LAST 30 DAYS: 319632008 tokens, 42204 requests, 40 lifetime active days. Tokens equal input plus output.</desc>
 <defs><linearGradient id="accent"><stop stop-color="#7C3AED"/><stop offset=".55" stop-color="#6388EE"/><stop offset="1" stop-color="#0891B2"/></linearGradient><linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#7C3AED" stop-opacity=".25"/><stop offset="1" stop-color="#0891B2" stop-opacity=".015"/></linearGradient><radialGradient id="glow"><stop stop-color="#7C3AED" stop-opacity=".09"/><stop offset="1" stop-color="#F8FAFC" stop-opacity="0"/></radialGradient><clipPath id="card"><rect x=".5" y=".5" width="519" height="363" rx="16"/></clipPath></defs>
 <g clip-path="url(#card)"><rect width="520" height="364" fill="#F8FAFC"/><ellipse cx="416" cy="0" rx="338" ry="291.2" fill="url(#glow)"/><g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"><path d="M26 29l7-9 7 9-7 9z" fill="url(#accent)"/>
 <text x="49" y="33" font-size="14" fill="#0F172A" font-weight="750" letter-spacing="2">MAGPIE</text>
 <text x="494" y="32" font-size="9" fill="#53647B" text-anchor="end" letter-spacing="1">LAST 30 DAYS</text>
 <path d="M26 46H494" stroke="#DBE3ED"/>
-<text x="26" y="79" font-size="30" fill="url(#accent)" font-weight="700" letter-spacing="-1">227M</text>
+<text x="26" y="79" font-size="30" fill="url(#accent)" font-weight="700" letter-spacing="-1">320M</text>
 <text x="26" y="96" font-size="9" fill="#53647B" letter-spacing="1">TOKENS</text>
-<text x="182" y="79" font-size="30" fill="#0F172A" font-weight="700" letter-spacing="-1">35.9K</text>
+<text x="182" y="79" font-size="30" fill="#0F172A" font-weight="700" letter-spacing="-1">42.2K</text>
 <text x="182" y="96" font-size="9" fill="#53647B" letter-spacing="1">REQUESTS</text>
-<text x="338" y="79" font-size="30" fill="#0F172A" font-weight="700" letter-spacing="-1">39</text>
+<text x="338" y="79" font-size="30" fill="#0F172A" font-weight="700" letter-spacing="-1">40</text>
 <text x="338" y="96" font-size="9" fill="#53647B" letter-spacing="1">ACTIVE DAYS · ALL TIME</text>
 <g transform="translate(0 0)">
 <text x="14" y="119" font-size="9" fill="#53647B" letter-spacing="1.5">TOKEN ACTIVITY</text>
 <path d="M14 148H246" stroke="#DBE3ED" stroke-dasharray="2 5"/>
 <path d="M14 165H246" stroke="#DBE3ED" stroke-dasharray="2 5"/>
-<path d="M14,165 L14.00,163.02 L22.00,162.95 L30.00,159.74 L38.00,157.20 L46.00,158.54 L54.00,164.04 L62.00,159.84 L70.00,164.54 L78.00,164.31 L86.00,163.77 L94.00,163.80 L102.00,164.74 L110.00,163.33 L118.00,163.40 L126.00,161.95 L134.00,160.10 L142.00,157.20 L150.00,154.95 L158.00,158.46 L166.00,158.58 L174.00,163.26 L182.00,162.45 L190.00,163.14 L198.00,161.83 L206.00,154.37 L214.00,157.55 L222.00,158.98 L230.00,141.87 L238.00,131.00 L246.00,163.26 L246,165Z" fill="url(#area)"/>
-<polyline points="14.00,163.02 22.00,162.95 30.00,159.74 38.00,157.20 46.00,158.54 54.00,164.04 62.00,159.84 70.00,164.54 78.00,164.31 86.00,163.77 94.00,163.80 102.00,164.74 110.00,163.33 118.00,163.40 126.00,161.95 134.00,160.10 142.00,157.20 150.00,154.95 158.00,158.46 166.00,158.58 174.00,163.26 182.00,162.45 190.00,163.14 198.00,161.83 206.00,154.37 214.00,157.55 222.00,158.98 230.00,141.87 238.00,131.00 246.00,163.26" fill="none" stroke="url(#accent)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M14,165 L14.00,163.90 L22.00,162.17 L30.00,160.81 L38.00,161.53 L46.00,164.48 L54.00,162.23 L62.00,164.75 L70.00,164.63 L78.00,164.34 L86.00,164.35 L94.00,164.86 L102.00,164.10 L110.00,164.14 L118.00,163.36 L126.00,162.37 L134.00,160.81 L142.00,159.60 L150.00,161.48 L158.00,161.55 L166.00,164.06 L174.00,163.63 L182.00,164.00 L190.00,163.30 L198.00,159.28 L206.00,161.00 L214.00,161.76 L222.00,152.57 L230.00,146.72 L238.00,131.00 L246.00,160.41 L246,165Z" fill="url(#area)"/>
+<polyline points="14.00,163.90 22.00,162.17 30.00,160.81 38.00,161.53 46.00,164.48 54.00,162.23 62.00,164.75 70.00,164.63 78.00,164.34 86.00,164.35 94.00,164.86 102.00,164.10 110.00,164.14 118.00,163.36 126.00,162.37 134.00,160.81 142.00,159.60 150.00,161.48 158.00,161.55 166.00,164.06 174.00,163.63 182.00,164.00 190.00,163.30 198.00,159.28 206.00,161.00 214.00,161.76 222.00,152.57 230.00,146.72 238.00,131.00 246.00,160.41" fill="none" stroke="url(#accent)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
 </g>
 <g transform="translate(260 0)">
 <text x="14" y="119" font-size="9" fill="#53647B" letter-spacing="1.5">TOP MODELS</text>
 <text x="246" y="119" font-size="8" fill="#53647B" text-anchor="end" letter-spacing="1">% OF TOKENS</text>
-<text x="14" y="139" font-size="10" fill="#0F172A" >gpt-6-astra</text>
-<rect x="132" y="132" width="72" height="5" rx="2.5" fill="#DBE3ED"/><rect x="132" y="132" width="15.79" height="5" rx="2.5" fill="url(#accent)"/>
-<text x="246" y="139" font-size="10" fill="#53647B" text-anchor="end">21.9%</text>
-<text x="14" y="161" font-size="10" fill="#0F172A" >claude-opus-5.5</text>
-<rect x="132" y="154" width="72" height="5" rx="2.5" fill="#DBE3ED"/><rect x="132" y="154" width="13.41" height="5" rx="2.5" fill="url(#accent)"/>
-<text x="246" y="161" font-size="10" fill="#53647B" text-anchor="end">18.6%</text>
-<text x="14" y="183" font-size="10" fill="#0F172A" >gpt-6.1-sol</text>
-<rect x="132" y="176" width="72" height="5" rx="2.5" fill="#DBE3ED"/><rect x="132" y="176" width="10.95" height="5" rx="2.5" fill="url(#accent)"/>
-<text x="246" y="183" font-size="10" fill="#53647B" text-anchor="end">15.2%</text>
+<text x="14" y="139" font-size="10" fill="#0F172A" >claude-opus-5.5</text>
+<rect x="132" y="132" width="72" height="5" rx="2.5" fill="#DBE3ED"/><rect x="132" y="132" width="18.52" height="5" rx="2.5" fill="url(#accent)"/>
+<text x="246" y="139" font-size="10" fill="#53647B" text-anchor="end">25.7%</text>
+<text x="14" y="161" font-size="10" fill="#0F172A" >gemini-4-hydrog…</text>
+<rect x="132" y="154" width="72" height="5" rx="2.5" fill="#DBE3ED"/><rect x="132" y="154" width="11.15" height="5" rx="2.5" fill="url(#accent)"/>
+<text x="246" y="161" font-size="10" fill="#53647B" text-anchor="end">15.5%</text>
+<text x="14" y="183" font-size="10" fill="#0F172A" >gpt-6-astra</text>
+<rect x="132" y="176" width="72" height="5" rx="2.5" fill="#DBE3ED"/><rect x="132" y="176" width="10.83" height="5" rx="2.5" fill="url(#accent)"/>
+<text x="246" y="183" font-size="10" fill="#53647B" text-anchor="end">15%</text>
 </g>
 <text x="26" y="208" font-size="8" fill="#53647B" letter-spacing="1">DAILY TOKENS</text>
 <text x="494" y="208" font-size="8" fill="#53647B" text-anchor="end">LAST 53 WEEKS</text>
-<text x="68.67924528301887" y="227" font-size="8" fill="#53647B" >Dec</text>
-<text x="102.0377358490566" y="227" font-size="8" fill="#53647B" >Jan</text>
-<text x="135.39622641509436" y="227" font-size="8" fill="#53647B" >Feb</text>
-<text x="168.75471698113208" y="227" font-size="8" fill="#53647B" >Mar</text>
-<text x="210.45283018867926" y="227" font-size="8" fill="#53647B" >Apr</text>
-<text x="243.811320754717" y="227" font-size="8" fill="#53647B" >May</text>
-<text x="285.50943396226415" y="227" font-size="8" fill="#53647B" >Jun</text>
-<text x="318.8679245283019" y="227" font-size="8" fill="#53647B" >Jul</text>
-<text x="352.22641509433964" y="227" font-size="8" fill="#53647B" >Aug</text>
-<text x="393.9245283018868" y="227" font-size="8" fill="#53647B" >Sep</text>
-<text x="427.28301886792457" y="227" font-size="8" fill="#53647B" >Oct</text>
-<text x="460.64150943396226" y="227" font-size="8" fill="#53647B" >Nov</text>
+<text x="60.339622641509436" y="227" font-size="8" fill="#53647B" >Dec</text>
+<text x="93.69811320754718" y="227" font-size="8" fill="#53647B" >Jan</text>
+<text x="127.05660377358491" y="227" font-size="8" fill="#53647B" >Feb</text>
+<text x="160.41509433962264" y="227" font-size="8" fill="#53647B" >Mar</text>
+<text x="202.11320754716982" y="227" font-size="8" fill="#53647B" >Apr</text>
+<text x="235.47169811320757" y="227" font-size="8" fill="#53647B" >May</text>
+<text x="277.1698113207547" y="227" font-size="8" fill="#53647B" >Jun</text>
+<text x="310.52830188679246" y="227" font-size="8" fill="#53647B" >Jul</text>
+<text x="343.8867924528302" y="227" font-size="8" fill="#53647B" >Aug</text>
+<text x="385.5849056603774" y="227" font-size="8" fill="#53647B" >Sep</text>
+<text x="418.94339622641513" y="227" font-size="8" fill="#53647B" >Oct</text>
+<text x="452.3018867924528" y="227" font-size="8" fill="#53647B" >Nov</text>
 <text x="26" y="241.83584905660376" font-size="8" fill="#53647B" >Mon</text>
 <text x="26" y="258.51509433962264" font-size="8" fill="#53647B" >Wed</text>
 <text x="26" y="275.1943396226415" font-size="8" fill="#53647B" >Fri</text>
 <text x="26" y="291.8735849056604" font-size="8" fill="#53647B" >Sun</text>
-<rect data-date="2025-11-17" data-col="0" data-row="0" data-level="0" x="52.00" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-17: 0 tokens</title></rect>
-<rect data-date="2025-11-18" data-col="0" data-row="1" data-level="0" x="52.00" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-18: 0 tokens</title></rect>
-<rect data-date="2025-11-19" data-col="0" data-row="2" data-level="0" x="52.00" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-19: 0 tokens</title></rect>
-<rect data-date="2025-11-20" data-col="0" data-row="3" data-level="0" x="52.00" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-20: 0 tokens</title></rect>
-<rect data-date="2025-11-21" data-col="0" data-row="4" data-level="0" x="52.00" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-21: 0 tokens</title></rect>
-<rect data-date="2025-11-22" data-col="0" data-row="5" data-level="0" x="52.00" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-22: 0 tokens</title></rect>
-<rect data-date="2025-11-23" data-col="0" data-row="6" data-level="0" x="52.00" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-23: 0 tokens</title></rect>
-<rect data-date="2025-11-24" data-col="1" data-row="0" data-level="0" x="60.34" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-24: 0 tokens</title></rect>
-<rect data-date="2025-11-25" data-col="1" data-row="1" data-level="0" x="60.34" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-25: 0 tokens</title></rect>
-<rect data-date="2025-11-26" data-col="1" data-row="2" data-level="0" x="60.34" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-26: 0 tokens</title></rect>
-<rect data-date="2025-11-27" data-col="1" data-row="3" data-level="0" x="60.34" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-27: 0 tokens</title></rect>
-<rect data-date="2025-11-28" data-col="1" data-row="4" data-level="0" x="60.34" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-28: 0 tokens</title></rect>
-<rect data-date="2025-11-29" data-col="1" data-row="5" data-level="0" x="60.34" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-29: 0 tokens</title></rect>
-<rect data-date="2025-11-30" data-col="1" data-row="6" data-level="0" x="60.34" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-30: 0 tokens</title></rect>
-<rect data-date="2025-12-01" data-col="2" data-row="0" data-level="0" x="68.68" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-01: 0 tokens</title></rect>
-<rect data-date="2025-12-02" data-col="2" data-row="1" data-level="0" x="68.68" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-02: 0 tokens</title></rect>
-<rect data-date="2025-12-03" data-col="2" data-row="2" data-level="0" x="68.68" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-03: 0 tokens</title></rect>
-<rect data-date="2025-12-04" data-col="2" data-row="3" data-level="0" x="68.68" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-04: 0 tokens</title></rect>
-<rect data-date="2025-12-05" data-col="2" data-row="4" data-level="0" x="68.68" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-05: 0 tokens</title></rect>
-<rect data-date="2025-12-06" data-col="2" data-row="5" data-level="0" x="68.68" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-06: 0 tokens</title></rect>
-<rect data-date="2025-12-07" data-col="2" data-row="6" data-level="0" x="68.68" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-07: 0 tokens</title></rect>
-<rect data-date="2025-12-08" data-col="3" data-row="0" data-level="0" x="77.02" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-08: 0 tokens</title></rect>
-<rect data-date="2025-12-09" data-col="3" data-row="1" data-level="0" x="77.02" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-09: 0 tokens</title></rect>
-<rect data-date="2025-12-10" data-col="3" data-row="2" data-level="0" x="77.02" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-10: 0 tokens</title></rect>
-<rect data-date="2025-12-11" data-col="3" data-row="3" data-level="0" x="77.02" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-11: 0 tokens</title></rect>
-<rect data-date="2025-12-12" data-col="3" data-row="4" data-level="0" x="77.02" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-12: 0 tokens</title></rect>
-<rect data-date="2025-12-13" data-col="3" data-row="5" data-level="0" x="77.02" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-13: 0 tokens</title></rect>
-<rect data-date="2025-12-14" data-col="3" data-row="6" data-level="0" x="77.02" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-14: 0 tokens</title></rect>
-<rect data-date="2025-12-15" data-col="4" data-row="0" data-level="0" x="85.36" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-15: 0 tokens</title></rect>
-<rect data-date="2025-12-16" data-col="4" data-row="1" data-level="0" x="85.36" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-16: 0 tokens</title></rect>
-<rect data-date="2025-12-17" data-col="4" data-row="2" data-level="0" x="85.36" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-17: 0 tokens</title></rect>
-<rect data-date="2025-12-18" data-col="4" data-row="3" data-level="0" x="85.36" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-18: 0 tokens</title></rect>
-<rect data-date="2025-12-19" data-col="4" data-row="4" data-level="0" x="85.36" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-19: 0 tokens</title></rect>
-<rect data-date="2025-12-20" data-col="4" data-row="5" data-level="0" x="85.36" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-20: 0 tokens</title></rect>
-<rect data-date="2025-12-21" data-col="4" data-row="6" data-level="0" x="85.36" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-21: 0 tokens</title></rect>
-<rect data-date="2025-12-22" data-col="5" data-row="0" data-level="0" x="93.70" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-22: 0 tokens</title></rect>
-<rect data-date="2025-12-23" data-col="5" data-row="1" data-level="0" x="93.70" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-23: 0 tokens</title></rect>
-<rect data-date="2025-12-24" data-col="5" data-row="2" data-level="0" x="93.70" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-24: 0 tokens</title></rect>
-<rect data-date="2025-12-25" data-col="5" data-row="3" data-level="0" x="93.70" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-25: 0 tokens</title></rect>
-<rect data-date="2025-12-26" data-col="5" data-row="4" data-level="0" x="93.70" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-26: 0 tokens</title></rect>
-<rect data-date="2025-12-27" data-col="5" data-row="5" data-level="0" x="93.70" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-27: 0 tokens</title></rect>
-<rect data-date="2025-12-28" data-col="5" data-row="6" data-level="0" x="93.70" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-28: 0 tokens</title></rect>
-<rect data-date="2025-12-29" data-col="6" data-row="0" data-level="0" x="102.04" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-29: 0 tokens</title></rect>
-<rect data-date="2025-12-30" data-col="6" data-row="1" data-level="0" x="102.04" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-30: 0 tokens</title></rect>
-<rect data-date="2025-12-31" data-col="6" data-row="2" data-level="0" x="102.04" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-31: 0 tokens</title></rect>
-<rect data-date="2026-01-01" data-col="6" data-row="3" data-level="0" x="102.04" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-01: 0 tokens</title></rect>
-<rect data-date="2026-01-02" data-col="6" data-row="4" data-level="0" x="102.04" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-02: 0 tokens</title></rect>
-<rect data-date="2026-01-03" data-col="6" data-row="5" data-level="0" x="102.04" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-03: 0 tokens</title></rect>
-<rect data-date="2026-01-04" data-col="6" data-row="6" data-level="0" x="102.04" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-04: 0 tokens</title></rect>
-<rect data-date="2026-01-05" data-col="7" data-row="0" data-level="0" x="110.38" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-05: 0 tokens</title></rect>
-<rect data-date="2026-01-06" data-col="7" data-row="1" data-level="0" x="110.38" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-06: 0 tokens</title></rect>
-<rect data-date="2026-01-07" data-col="7" data-row="2" data-level="0" x="110.38" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-07: 0 tokens</title></rect>
-<rect data-date="2026-01-08" data-col="7" data-row="3" data-level="0" x="110.38" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-08: 0 tokens</title></rect>
-<rect data-date="2026-01-09" data-col="7" data-row="4" data-level="0" x="110.38" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-09: 0 tokens</title></rect>
-<rect data-date="2026-01-10" data-col="7" data-row="5" data-level="0" x="110.38" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-10: 0 tokens</title></rect>
-<rect data-date="2026-01-11" data-col="7" data-row="6" data-level="0" x="110.38" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-11: 0 tokens</title></rect>
-<rect data-date="2026-01-12" data-col="8" data-row="0" data-level="0" x="118.72" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-12: 0 tokens</title></rect>
-<rect data-date="2026-01-13" data-col="8" data-row="1" data-level="0" x="118.72" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-13: 0 tokens</title></rect>
-<rect data-date="2026-01-14" data-col="8" data-row="2" data-level="0" x="118.72" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-14: 0 tokens</title></rect>
-<rect data-date="2026-01-15" data-col="8" data-row="3" data-level="0" x="118.72" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-15: 0 tokens</title></rect>
-<rect data-date="2026-01-16" data-col="8" data-row="4" data-level="0" x="118.72" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-16: 0 tokens</title></rect>
-<rect data-date="2026-01-17" data-col="8" data-row="5" data-level="0" x="118.72" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-17: 0 tokens</title></rect>
-<rect data-date="2026-01-18" data-col="8" data-row="6" data-level="0" x="118.72" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-18: 0 tokens</title></rect>
-<rect data-date="2026-01-19" data-col="9" data-row="0" data-level="0" x="127.06" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-19: 0 tokens</title></rect>
-<rect data-date="2026-01-20" data-col="9" data-row="1" data-level="0" x="127.06" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-20: 0 tokens</title></rect>
-<rect data-date="2026-01-21" data-col="9" data-row="2" data-level="0" x="127.06" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-21: 0 tokens</title></rect>
-<rect data-date="2026-01-22" data-col="9" data-row="3" data-level="0" x="127.06" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-22: 0 tokens</title></rect>
-<rect data-date="2026-01-23" data-col="9" data-row="4" data-level="0" x="127.06" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-23: 0 tokens</title></rect>
-<rect data-date="2026-01-24" data-col="9" data-row="5" data-level="0" x="127.06" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-24: 0 tokens</title></rect>
-<rect data-date="2026-01-25" data-col="9" data-row="6" data-level="0" x="127.06" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-25: 0 tokens</title></rect>
-<rect data-date="2026-01-26" data-col="10" data-row="0" data-level="0" x="135.40" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-26: 0 tokens</title></rect>
-<rect data-date="2026-01-27" data-col="10" data-row="1" data-level="0" x="135.40" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-27: 0 tokens</title></rect>
-<rect data-date="2026-01-28" data-col="10" data-row="2" data-level="0" x="135.40" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-28: 0 tokens</title></rect>
-<rect data-date="2026-01-29" data-col="10" data-row="3" data-level="0" x="135.40" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-29: 0 tokens</title></rect>
-<rect data-date="2026-01-30" data-col="10" data-row="4" data-level="0" x="135.40" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-30: 0 tokens</title></rect>
-<rect data-date="2026-01-31" data-col="10" data-row="5" data-level="0" x="135.40" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-31: 0 tokens</title></rect>
-<rect data-date="2026-02-01" data-col="10" data-row="6" data-level="0" x="135.40" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-01: 0 tokens</title></rect>
-<rect data-date="2026-02-02" data-col="11" data-row="0" data-level="0" x="143.74" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-02: 0 tokens</title></rect>
-<rect data-date="2026-02-03" data-col="11" data-row="1" data-level="0" x="143.74" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-03: 0 tokens</title></rect>
-<rect data-date="2026-02-04" data-col="11" data-row="2" data-level="0" x="143.74" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-04: 0 tokens</title></rect>
-<rect data-date="2026-02-05" data-col="11" data-row="3" data-level="0" x="143.74" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-05: 0 tokens</title></rect>
-<rect data-date="2026-02-06" data-col="11" data-row="4" data-level="0" x="143.74" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-06: 0 tokens</title></rect>
-<rect data-date="2026-02-07" data-col="11" data-row="5" data-level="0" x="143.74" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-07: 0 tokens</title></rect>
-<rect data-date="2026-02-08" data-col="11" data-row="6" data-level="0" x="143.74" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-08: 0 tokens</title></rect>
-<rect data-date="2026-02-09" data-col="12" data-row="0" data-level="0" x="152.08" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-09: 0 tokens</title></rect>
-<rect data-date="2026-02-10" data-col="12" data-row="1" data-level="0" x="152.08" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-10: 0 tokens</title></rect>
-<rect data-date="2026-02-11" data-col="12" data-row="2" data-level="0" x="152.08" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-11: 0 tokens</title></rect>
-<rect data-date="2026-02-12" data-col="12" data-row="3" data-level="0" x="152.08" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-12: 0 tokens</title></rect>
-<rect data-date="2026-02-13" data-col="12" data-row="4" data-level="0" x="152.08" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-13: 0 tokens</title></rect>
-<rect data-date="2026-02-14" data-col="12" data-row="5" data-level="0" x="152.08" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-14: 0 tokens</title></rect>
-<rect data-date="2026-02-15" data-col="12" data-row="6" data-level="0" x="152.08" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-15: 0 tokens</title></rect>
-<rect data-date="2026-02-16" data-col="13" data-row="0" data-level="0" x="160.42" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-16: 0 tokens</title></rect>
-<rect data-date="2026-02-17" data-col="13" data-row="1" data-level="0" x="160.42" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-17: 0 tokens</title></rect>
-<rect data-date="2026-02-18" data-col="13" data-row="2" data-level="0" x="160.42" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-18: 0 tokens</title></rect>
-<rect data-date="2026-02-19" data-col="13" data-row="3" data-level="0" x="160.42" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-19: 0 tokens</title></rect>
-<rect data-date="2026-02-20" data-col="13" data-row="4" data-level="0" x="160.42" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-20: 0 tokens</title></rect>
-<rect data-date="2026-02-21" data-col="13" data-row="5" data-level="0" x="160.42" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-21: 0 tokens</title></rect>
-<rect data-date="2026-02-22" data-col="13" data-row="6" data-level="0" x="160.42" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-22: 0 tokens</title></rect>
-<rect data-date="2026-02-23" data-col="14" data-row="0" data-level="0" x="168.75" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-23: 0 tokens</title></rect>
-<rect data-date="2026-02-24" data-col="14" data-row="1" data-level="0" x="168.75" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-24: 0 tokens</title></rect>
-<rect data-date="2026-02-25" data-col="14" data-row="2" data-level="0" x="168.75" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-25: 0 tokens</title></rect>
-<rect data-date="2026-02-26" data-col="14" data-row="3" data-level="0" x="168.75" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-26: 0 tokens</title></rect>
-<rect data-date="2026-02-27" data-col="14" data-row="4" data-level="0" x="168.75" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-27: 0 tokens</title></rect>
-<rect data-date="2026-02-28" data-col="14" data-row="5" data-level="0" x="168.75" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-28: 0 tokens</title></rect>
-<rect data-date="2026-03-01" data-col="14" data-row="6" data-level="0" x="168.75" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-01: 0 tokens</title></rect>
-<rect data-date="2026-03-02" data-col="15" data-row="0" data-level="0" x="177.09" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-02: 0 tokens</title></rect>
-<rect data-date="2026-03-03" data-col="15" data-row="1" data-level="0" x="177.09" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-03: 0 tokens</title></rect>
-<rect data-date="2026-03-04" data-col="15" data-row="2" data-level="0" x="177.09" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-04: 0 tokens</title></rect>
-<rect data-date="2026-03-05" data-col="15" data-row="3" data-level="0" x="177.09" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-05: 0 tokens</title></rect>
-<rect data-date="2026-03-06" data-col="15" data-row="4" data-level="0" x="177.09" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-06: 0 tokens</title></rect>
-<rect data-date="2026-03-07" data-col="15" data-row="5" data-level="0" x="177.09" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-07: 0 tokens</title></rect>
-<rect data-date="2026-03-08" data-col="15" data-row="6" data-level="0" x="177.09" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-08: 0 tokens</title></rect>
-<rect data-date="2026-03-09" data-col="16" data-row="0" data-level="0" x="185.43" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-09: 0 tokens</title></rect>
-<rect data-date="2026-03-10" data-col="16" data-row="1" data-level="0" x="185.43" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-10: 0 tokens</title></rect>
-<rect data-date="2026-03-11" data-col="16" data-row="2" data-level="0" x="185.43" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-11: 0 tokens</title></rect>
-<rect data-date="2026-03-12" data-col="16" data-row="3" data-level="0" x="185.43" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-12: 0 tokens</title></rect>
-<rect data-date="2026-03-13" data-col="16" data-row="4" data-level="0" x="185.43" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-13: 0 tokens</title></rect>
-<rect data-date="2026-03-14" data-col="16" data-row="5" data-level="0" x="185.43" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-14: 0 tokens</title></rect>
-<rect data-date="2026-03-15" data-col="16" data-row="6" data-level="0" x="185.43" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-15: 0 tokens</title></rect>
-<rect data-date="2026-03-16" data-col="17" data-row="0" data-level="0" x="193.77" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-16: 0 tokens</title></rect>
-<rect data-date="2026-03-17" data-col="17" data-row="1" data-level="0" x="193.77" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-17: 0 tokens</title></rect>
-<rect data-date="2026-03-18" data-col="17" data-row="2" data-level="0" x="193.77" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-18: 0 tokens</title></rect>
-<rect data-date="2026-03-19" data-col="17" data-row="3" data-level="0" x="193.77" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-19: 0 tokens</title></rect>
-<rect data-date="2026-03-20" data-col="17" data-row="4" data-level="0" x="193.77" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-20: 0 tokens</title></rect>
-<rect data-date="2026-03-21" data-col="17" data-row="5" data-level="0" x="193.77" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-21: 0 tokens</title></rect>
-<rect data-date="2026-03-22" data-col="17" data-row="6" data-level="0" x="193.77" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-22: 0 tokens</title></rect>
-<rect data-date="2026-03-23" data-col="18" data-row="0" data-level="0" x="202.11" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-23: 0 tokens</title></rect>
-<rect data-date="2026-03-24" data-col="18" data-row="1" data-level="0" x="202.11" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-24: 0 tokens</title></rect>
-<rect data-date="2026-03-25" data-col="18" data-row="2" data-level="0" x="202.11" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-25: 0 tokens</title></rect>
-<rect data-date="2026-03-26" data-col="18" data-row="3" data-level="0" x="202.11" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-26: 0 tokens</title></rect>
-<rect data-date="2026-03-27" data-col="18" data-row="4" data-level="0" x="202.11" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-27: 0 tokens</title></rect>
-<rect data-date="2026-03-28" data-col="18" data-row="5" data-level="0" x="202.11" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-28: 0 tokens</title></rect>
-<rect data-date="2026-03-29" data-col="18" data-row="6" data-level="0" x="202.11" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-29: 0 tokens</title></rect>
-<rect data-date="2026-03-30" data-col="19" data-row="0" data-level="0" x="210.45" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-30: 0 tokens</title></rect>
-<rect data-date="2026-03-31" data-col="19" data-row="1" data-level="0" x="210.45" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-31: 0 tokens</title></rect>
-<rect data-date="2026-04-01" data-col="19" data-row="2" data-level="0" x="210.45" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-01: 0 tokens</title></rect>
-<rect data-date="2026-04-02" data-col="19" data-row="3" data-level="0" x="210.45" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-02: 0 tokens</title></rect>
-<rect data-date="2026-04-03" data-col="19" data-row="4" data-level="0" x="210.45" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-03: 0 tokens</title></rect>
-<rect data-date="2026-04-04" data-col="19" data-row="5" data-level="0" x="210.45" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-04: 0 tokens</title></rect>
-<rect data-date="2026-04-05" data-col="19" data-row="6" data-level="0" x="210.45" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-05: 0 tokens</title></rect>
-<rect data-date="2026-04-06" data-col="20" data-row="0" data-level="0" x="218.79" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-06: 0 tokens</title></rect>
-<rect data-date="2026-04-07" data-col="20" data-row="1" data-level="0" x="218.79" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-07: 0 tokens</title></rect>
-<rect data-date="2026-04-08" data-col="20" data-row="2" data-level="0" x="218.79" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-08: 0 tokens</title></rect>
-<rect data-date="2026-04-09" data-col="20" data-row="3" data-level="0" x="218.79" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-09: 0 tokens</title></rect>
-<rect data-date="2026-04-10" data-col="20" data-row="4" data-level="0" x="218.79" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-10: 0 tokens</title></rect>
-<rect data-date="2026-04-11" data-col="20" data-row="5" data-level="0" x="218.79" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-11: 0 tokens</title></rect>
-<rect data-date="2026-04-12" data-col="20" data-row="6" data-level="0" x="218.79" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-12: 0 tokens</title></rect>
-<rect data-date="2026-04-13" data-col="21" data-row="0" data-level="0" x="227.13" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-13: 0 tokens</title></rect>
-<rect data-date="2026-04-14" data-col="21" data-row="1" data-level="0" x="227.13" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-14: 0 tokens</title></rect>
-<rect data-date="2026-04-15" data-col="21" data-row="2" data-level="0" x="227.13" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-15: 0 tokens</title></rect>
-<rect data-date="2026-04-16" data-col="21" data-row="3" data-level="0" x="227.13" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-16: 0 tokens</title></rect>
-<rect data-date="2026-04-17" data-col="21" data-row="4" data-level="0" x="227.13" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-17: 0 tokens</title></rect>
-<rect data-date="2026-04-18" data-col="21" data-row="5" data-level="0" x="227.13" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-18: 0 tokens</title></rect>
-<rect data-date="2026-04-19" data-col="21" data-row="6" data-level="0" x="227.13" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-19: 0 tokens</title></rect>
-<rect data-date="2026-04-20" data-col="22" data-row="0" data-level="0" x="235.47" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-20: 0 tokens</title></rect>
-<rect data-date="2026-04-21" data-col="22" data-row="1" data-level="0" x="235.47" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-21: 0 tokens</title></rect>
-<rect data-date="2026-04-22" data-col="22" data-row="2" data-level="0" x="235.47" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-22: 0 tokens</title></rect>
-<rect data-date="2026-04-23" data-col="22" data-row="3" data-level="0" x="235.47" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-23: 0 tokens</title></rect>
-<rect data-date="2026-04-24" data-col="22" data-row="4" data-level="0" x="235.47" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-24: 0 tokens</title></rect>
-<rect data-date="2026-04-25" data-col="22" data-row="5" data-level="0" x="235.47" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-25: 0 tokens</title></rect>
-<rect data-date="2026-04-26" data-col="22" data-row="6" data-level="0" x="235.47" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-26: 0 tokens</title></rect>
-<rect data-date="2026-04-27" data-col="23" data-row="0" data-level="0" x="243.81" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-27: 0 tokens</title></rect>
-<rect data-date="2026-04-28" data-col="23" data-row="1" data-level="0" x="243.81" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-28: 0 tokens</title></rect>
-<rect data-date="2026-04-29" data-col="23" data-row="2" data-level="0" x="243.81" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-29: 0 tokens</title></rect>
-<rect data-date="2026-04-30" data-col="23" data-row="3" data-level="0" x="243.81" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-30: 0 tokens</title></rect>
-<rect data-date="2026-05-01" data-col="23" data-row="4" data-level="0" x="243.81" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-01: 0 tokens</title></rect>
-<rect data-date="2026-05-02" data-col="23" data-row="5" data-level="0" x="243.81" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-02: 0 tokens</title></rect>
-<rect data-date="2026-05-03" data-col="23" data-row="6" data-level="0" x="243.81" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-03: 0 tokens</title></rect>
-<rect data-date="2026-05-04" data-col="24" data-row="0" data-level="0" x="252.15" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-04: 0 tokens</title></rect>
-<rect data-date="2026-05-05" data-col="24" data-row="1" data-level="0" x="252.15" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-05: 0 tokens</title></rect>
-<rect data-date="2026-05-06" data-col="24" data-row="2" data-level="0" x="252.15" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-06: 0 tokens</title></rect>
-<rect data-date="2026-05-07" data-col="24" data-row="3" data-level="0" x="252.15" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-07: 0 tokens</title></rect>
-<rect data-date="2026-05-08" data-col="24" data-row="4" data-level="0" x="252.15" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-08: 0 tokens</title></rect>
-<rect data-date="2026-05-09" data-col="24" data-row="5" data-level="0" x="252.15" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-09: 0 tokens</title></rect>
-<rect data-date="2026-05-10" data-col="24" data-row="6" data-level="0" x="252.15" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-10: 0 tokens</title></rect>
-<rect data-date="2026-05-11" data-col="25" data-row="0" data-level="0" x="260.49" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-11: 0 tokens</title></rect>
-<rect data-date="2026-05-12" data-col="25" data-row="1" data-level="0" x="260.49" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-12: 0 tokens</title></rect>
-<rect data-date="2026-05-13" data-col="25" data-row="2" data-level="0" x="260.49" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-13: 0 tokens</title></rect>
-<rect data-date="2026-05-14" data-col="25" data-row="3" data-level="0" x="260.49" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-14: 0 tokens</title></rect>
-<rect data-date="2026-05-15" data-col="25" data-row="4" data-level="0" x="260.49" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-15: 0 tokens</title></rect>
-<rect data-date="2026-05-16" data-col="25" data-row="5" data-level="0" x="260.49" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-16: 0 tokens</title></rect>
-<rect data-date="2026-05-17" data-col="25" data-row="6" data-level="0" x="260.49" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-17: 0 tokens</title></rect>
-<rect data-date="2026-05-18" data-col="26" data-row="0" data-level="0" x="268.83" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-18: 0 tokens</title></rect>
-<rect data-date="2026-05-19" data-col="26" data-row="1" data-level="0" x="268.83" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-19: 0 tokens</title></rect>
-<rect data-date="2026-05-20" data-col="26" data-row="2" data-level="0" x="268.83" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-20: 0 tokens</title></rect>
-<rect data-date="2026-05-21" data-col="26" data-row="3" data-level="0" x="268.83" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-21: 0 tokens</title></rect>
-<rect data-date="2026-05-22" data-col="26" data-row="4" data-level="0" x="268.83" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-22: 0 tokens</title></rect>
-<rect data-date="2026-05-23" data-col="26" data-row="5" data-level="0" x="268.83" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-23: 0 tokens</title></rect>
-<rect data-date="2026-05-24" data-col="26" data-row="6" data-level="0" x="268.83" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-24: 0 tokens</title></rect>
-<rect data-date="2026-05-25" data-col="27" data-row="0" data-level="0" x="277.17" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-25: 0 tokens</title></rect>
-<rect data-date="2026-05-26" data-col="27" data-row="1" data-level="0" x="277.17" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-26: 0 tokens</title></rect>
-<rect data-date="2026-05-27" data-col="27" data-row="2" data-level="0" x="277.17" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-27: 0 tokens</title></rect>
-<rect data-date="2026-05-28" data-col="27" data-row="3" data-level="0" x="277.17" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-28: 0 tokens</title></rect>
-<rect data-date="2026-05-29" data-col="27" data-row="4" data-level="0" x="277.17" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-29: 0 tokens</title></rect>
-<rect data-date="2026-05-30" data-col="27" data-row="5" data-level="0" x="277.17" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-30: 0 tokens</title></rect>
-<rect data-date="2026-05-31" data-col="27" data-row="6" data-level="0" x="277.17" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-31: 0 tokens</title></rect>
-<rect data-date="2026-06-01" data-col="28" data-row="0" data-level="0" x="285.51" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-01: 0 tokens</title></rect>
-<rect data-date="2026-06-02" data-col="28" data-row="1" data-level="0" x="285.51" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-02: 0 tokens</title></rect>
-<rect data-date="2026-06-03" data-col="28" data-row="2" data-level="0" x="285.51" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-03: 0 tokens</title></rect>
-<rect data-date="2026-06-04" data-col="28" data-row="3" data-level="0" x="285.51" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-04: 0 tokens</title></rect>
-<rect data-date="2026-06-05" data-col="28" data-row="4" data-level="0" x="285.51" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-05: 0 tokens</title></rect>
-<rect data-date="2026-06-06" data-col="28" data-row="5" data-level="0" x="285.51" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-06: 0 tokens</title></rect>
-<rect data-date="2026-06-07" data-col="28" data-row="6" data-level="0" x="285.51" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-07: 0 tokens</title></rect>
-<rect data-date="2026-06-08" data-col="29" data-row="0" data-level="0" x="293.85" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-08: 0 tokens</title></rect>
-<rect data-date="2026-06-09" data-col="29" data-row="1" data-level="0" x="293.85" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-09: 0 tokens</title></rect>
-<rect data-date="2026-06-10" data-col="29" data-row="2" data-level="0" x="293.85" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-10: 0 tokens</title></rect>
-<rect data-date="2026-06-11" data-col="29" data-row="3" data-level="0" x="293.85" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-11: 0 tokens</title></rect>
-<rect data-date="2026-06-12" data-col="29" data-row="4" data-level="0" x="293.85" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-12: 0 tokens</title></rect>
-<rect data-date="2026-06-13" data-col="29" data-row="5" data-level="0" x="293.85" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-13: 0 tokens</title></rect>
-<rect data-date="2026-06-14" data-col="29" data-row="6" data-level="0" x="293.85" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-14: 0 tokens</title></rect>
-<rect data-date="2026-06-15" data-col="30" data-row="0" data-level="0" x="302.19" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-15: 0 tokens</title></rect>
-<rect data-date="2026-06-16" data-col="30" data-row="1" data-level="0" x="302.19" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-16: 0 tokens</title></rect>
-<rect data-date="2026-06-17" data-col="30" data-row="2" data-level="0" x="302.19" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-17: 0 tokens</title></rect>
-<rect data-date="2026-06-18" data-col="30" data-row="3" data-level="0" x="302.19" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-18: 0 tokens</title></rect>
-<rect data-date="2026-06-19" data-col="30" data-row="4" data-level="0" x="302.19" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-19: 0 tokens</title></rect>
-<rect data-date="2026-06-20" data-col="30" data-row="5" data-level="0" x="302.19" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-20: 0 tokens</title></rect>
-<rect data-date="2026-06-21" data-col="30" data-row="6" data-level="0" x="302.19" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-21: 0 tokens</title></rect>
-<rect data-date="2026-06-22" data-col="31" data-row="0" data-level="0" x="310.53" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-22: 0 tokens</title></rect>
-<rect data-date="2026-06-23" data-col="31" data-row="1" data-level="0" x="310.53" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-23: 0 tokens</title></rect>
-<rect data-date="2026-06-24" data-col="31" data-row="2" data-level="0" x="310.53" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-24: 0 tokens</title></rect>
-<rect data-date="2026-06-25" data-col="31" data-row="3" data-level="0" x="310.53" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-25: 0 tokens</title></rect>
-<rect data-date="2026-06-26" data-col="31" data-row="4" data-level="0" x="310.53" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-26: 0 tokens</title></rect>
-<rect data-date="2026-06-27" data-col="31" data-row="5" data-level="0" x="310.53" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-27: 0 tokens</title></rect>
-<rect data-date="2026-06-28" data-col="31" data-row="6" data-level="0" x="310.53" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-28: 0 tokens</title></rect>
-<rect data-date="2026-06-29" data-col="32" data-row="0" data-level="0" x="318.87" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-29: 0 tokens</title></rect>
-<rect data-date="2026-06-30" data-col="32" data-row="1" data-level="0" x="318.87" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-30: 0 tokens</title></rect>
-<rect data-date="2026-07-01" data-col="32" data-row="2" data-level="0" x="318.87" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-01: 0 tokens</title></rect>
-<rect data-date="2026-07-02" data-col="32" data-row="3" data-level="0" x="318.87" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-02: 0 tokens</title></rect>
-<rect data-date="2026-07-03" data-col="32" data-row="4" data-level="0" x="318.87" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-03: 0 tokens</title></rect>
-<rect data-date="2026-07-04" data-col="32" data-row="5" data-level="0" x="318.87" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-04: 0 tokens</title></rect>
-<rect data-date="2026-07-05" data-col="32" data-row="6" data-level="0" x="318.87" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-05: 0 tokens</title></rect>
-<rect data-date="2026-07-06" data-col="33" data-row="0" data-level="0" x="327.21" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-06: 0 tokens</title></rect>
-<rect data-date="2026-07-07" data-col="33" data-row="1" data-level="0" x="327.21" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-07: 0 tokens</title></rect>
-<rect data-date="2026-07-08" data-col="33" data-row="2" data-level="0" x="327.21" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-08: 0 tokens</title></rect>
-<rect data-date="2026-07-09" data-col="33" data-row="3" data-level="0" x="327.21" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-09: 0 tokens</title></rect>
-<rect data-date="2026-07-10" data-col="33" data-row="4" data-level="0" x="327.21" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-10: 0 tokens</title></rect>
-<rect data-date="2026-07-11" data-col="33" data-row="5" data-level="0" x="327.21" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-11: 0 tokens</title></rect>
-<rect data-date="2026-07-12" data-col="33" data-row="6" data-level="0" x="327.21" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-12: 0 tokens</title></rect>
-<rect data-date="2026-07-13" data-col="34" data-row="0" data-level="0" x="335.55" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-13: 0 tokens</title></rect>
-<rect data-date="2026-07-14" data-col="34" data-row="1" data-level="0" x="335.55" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-14: 0 tokens</title></rect>
-<rect data-date="2026-07-15" data-col="34" data-row="2" data-level="0" x="335.55" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-15: 0 tokens</title></rect>
-<rect data-date="2026-07-16" data-col="34" data-row="3" data-level="0" x="335.55" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-16: 0 tokens</title></rect>
-<rect data-date="2026-07-17" data-col="34" data-row="4" data-level="0" x="335.55" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-17: 0 tokens</title></rect>
-<rect data-date="2026-07-18" data-col="34" data-row="5" data-level="0" x="335.55" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-18: 0 tokens</title></rect>
-<rect data-date="2026-07-19" data-col="34" data-row="6" data-level="0" x="335.55" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-19: 0 tokens</title></rect>
-<rect data-date="2026-07-20" data-col="35" data-row="0" data-level="0" x="343.89" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-20: 0 tokens</title></rect>
-<rect data-date="2026-07-21" data-col="35" data-row="1" data-level="0" x="343.89" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-21: 0 tokens</title></rect>
-<rect data-date="2026-07-22" data-col="35" data-row="2" data-level="0" x="343.89" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-22: 0 tokens</title></rect>
-<rect data-date="2026-07-23" data-col="35" data-row="3" data-level="0" x="343.89" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-23: 0 tokens</title></rect>
-<rect data-date="2026-07-24" data-col="35" data-row="4" data-level="0" x="343.89" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-24: 0 tokens</title></rect>
-<rect data-date="2026-07-25" data-col="35" data-row="5" data-level="0" x="343.89" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-25: 0 tokens</title></rect>
-<rect data-date="2026-07-26" data-col="35" data-row="6" data-level="0" x="343.89" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-26: 0 tokens</title></rect>
-<rect data-date="2026-07-27" data-col="36" data-row="0" data-level="0" x="352.23" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-27: 0 tokens</title></rect>
-<rect data-date="2026-07-28" data-col="36" data-row="1" data-level="0" x="352.23" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-28: 0 tokens</title></rect>
-<rect data-date="2026-07-29" data-col="36" data-row="2" data-level="0" x="352.23" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-29: 0 tokens</title></rect>
-<rect data-date="2026-07-30" data-col="36" data-row="3" data-level="0" x="352.23" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-30: 0 tokens</title></rect>
-<rect data-date="2026-07-31" data-col="36" data-row="4" data-level="0" x="352.23" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-31: 0 tokens</title></rect>
-<rect data-date="2026-08-01" data-col="36" data-row="5" data-level="0" x="352.23" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-01: 0 tokens</title></rect>
-<rect data-date="2026-08-02" data-col="36" data-row="6" data-level="0" x="352.23" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-02: 0 tokens</title></rect>
-<rect data-date="2026-08-03" data-col="37" data-row="0" data-level="0" x="360.57" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-03: 0 tokens</title></rect>
-<rect data-date="2026-08-04" data-col="37" data-row="1" data-level="0" x="360.57" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-04: 0 tokens</title></rect>
-<rect data-date="2026-08-05" data-col="37" data-row="2" data-level="0" x="360.57" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-05: 0 tokens</title></rect>
-<rect data-date="2026-08-06" data-col="37" data-row="3" data-level="0" x="360.57" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-06: 0 tokens</title></rect>
-<rect data-date="2026-08-07" data-col="37" data-row="4" data-level="0" x="360.57" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-07: 0 tokens</title></rect>
-<rect data-date="2026-08-08" data-col="37" data-row="5" data-level="0" x="360.57" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-08: 0 tokens</title></rect>
-<rect data-date="2026-08-09" data-col="37" data-row="6" data-level="0" x="360.57" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-09: 0 tokens</title></rect>
-<rect data-date="2026-08-10" data-col="38" data-row="0" data-level="0" x="368.91" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-10: 0 tokens</title></rect>
-<rect data-date="2026-08-11" data-col="38" data-row="1" data-level="0" x="368.91" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-11: 0 tokens</title></rect>
-<rect data-date="2026-08-12" data-col="38" data-row="2" data-level="0" x="368.91" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-12: 0 tokens</title></rect>
-<rect data-date="2026-08-13" data-col="38" data-row="3" data-level="0" x="368.91" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-13: 0 tokens</title></rect>
-<rect data-date="2026-08-14" data-col="38" data-row="4" data-level="0" x="368.91" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-14: 0 tokens</title></rect>
-<rect data-date="2026-08-15" data-col="38" data-row="5" data-level="0" x="368.91" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-15: 0 tokens</title></rect>
-<rect data-date="2026-08-16" data-col="38" data-row="6" data-level="0" x="368.91" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-16: 0 tokens</title></rect>
-<rect data-date="2026-08-17" data-col="39" data-row="0" data-level="0" x="377.25" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-17: 0 tokens</title></rect>
-<rect data-date="2026-08-18" data-col="39" data-row="1" data-level="0" x="377.25" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-18: 0 tokens</title></rect>
-<rect data-date="2026-08-19" data-col="39" data-row="2" data-level="0" x="377.25" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-19: 0 tokens</title></rect>
-<rect data-date="2026-08-20" data-col="39" data-row="3" data-level="0" x="377.25" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-20: 0 tokens</title></rect>
-<rect data-date="2026-08-21" data-col="39" data-row="4" data-level="0" x="377.25" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-21: 0 tokens</title></rect>
-<rect data-date="2026-08-22" data-col="39" data-row="5" data-level="0" x="377.25" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-22: 0 tokens</title></rect>
-<rect data-date="2026-08-23" data-col="39" data-row="6" data-level="0" x="377.25" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-23: 0 tokens</title></rect>
-<rect data-date="2026-08-24" data-col="40" data-row="0" data-level="0" x="385.58" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-24: 0 tokens</title></rect>
-<rect data-date="2026-08-25" data-col="40" data-row="1" data-level="0" x="385.58" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-25: 0 tokens</title></rect>
-<rect data-date="2026-08-26" data-col="40" data-row="2" data-level="0" x="385.58" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-26: 0 tokens</title></rect>
-<rect data-date="2026-08-27" data-col="40" data-row="3" data-level="0" x="385.58" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-27: 0 tokens</title></rect>
-<rect data-date="2026-08-28" data-col="40" data-row="4" data-level="0" x="385.58" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-28: 0 tokens</title></rect>
-<rect data-date="2026-08-29" data-col="40" data-row="5" data-level="0" x="385.58" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-29: 0 tokens</title></rect>
-<rect data-date="2026-08-30" data-col="40" data-row="6" data-level="0" x="385.58" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-30: 0 tokens</title></rect>
-<rect data-date="2026-08-31" data-col="41" data-row="0" data-level="0" x="393.92" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-31: 0 tokens</title></rect>
-<rect data-date="2026-09-01" data-col="41" data-row="1" data-level="0" x="393.92" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-01: 0 tokens</title></rect>
-<rect data-date="2026-09-02" data-col="41" data-row="2" data-level="0" x="393.92" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-02: 0 tokens</title></rect>
-<rect data-date="2026-09-03" data-col="41" data-row="3" data-level="0" x="393.92" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-03: 0 tokens</title></rect>
-<rect data-date="2026-09-04" data-col="41" data-row="4" data-level="0" x="393.92" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-04: 0 tokens</title></rect>
-<rect data-date="2026-09-05" data-col="41" data-row="5" data-level="0" x="393.92" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-05: 0 tokens</title></rect>
-<rect data-date="2026-09-06" data-col="41" data-row="6" data-level="0" x="393.92" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-06: 0 tokens</title></rect>
-<rect data-date="2026-09-07" data-col="42" data-row="0" data-level="0" x="402.26" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-07: 0 tokens</title></rect>
-<rect data-date="2026-09-08" data-col="42" data-row="1" data-level="0" x="402.26" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-08: 0 tokens</title></rect>
-<rect data-date="2026-09-09" data-col="42" data-row="2" data-level="0" x="402.26" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-09: 0 tokens</title></rect>
-<rect data-date="2026-09-10" data-col="42" data-row="3" data-level="0" x="402.26" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-10: 0 tokens</title></rect>
-<rect data-date="2026-09-11" data-col="42" data-row="4" data-level="0" x="402.26" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-11: 0 tokens</title></rect>
-<rect data-date="2026-09-12" data-col="42" data-row="5" data-level="0" x="402.26" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-12: 0 tokens</title></rect>
-<rect data-date="2026-09-13" data-col="42" data-row="6" data-level="0" x="402.26" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-13: 0 tokens</title></rect>
-<rect data-date="2026-09-14" data-col="43" data-row="0" data-level="0" x="410.60" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-14: 0 tokens</title></rect>
-<rect data-date="2026-09-15" data-col="43" data-row="1" data-level="0" x="410.60" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-15: 0 tokens</title></rect>
-<rect data-date="2026-09-16" data-col="43" data-row="2" data-level="0" x="410.60" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-16: 0 tokens</title></rect>
-<rect data-date="2026-09-17" data-col="43" data-row="3" data-level="0" x="410.60" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-17: 0 tokens</title></rect>
-<rect data-date="2026-09-18" data-col="43" data-row="4" data-level="0" x="410.60" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-18: 0 tokens</title></rect>
-<rect data-date="2026-09-19" data-col="43" data-row="5" data-level="0" x="410.60" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-19: 0 tokens</title></rect>
-<rect data-date="2026-09-20" data-col="43" data-row="6" data-level="0" x="410.60" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-20: 0 tokens</title></rect>
-<rect data-date="2026-09-21" data-col="44" data-row="0" data-level="0" x="418.94" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-21: 0 tokens</title></rect>
-<rect data-date="2026-09-22" data-col="44" data-row="1" data-level="0" x="418.94" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-22: 0 tokens</title></rect>
-<rect data-date="2026-09-23" data-col="44" data-row="2" data-level="0" x="418.94" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-23: 0 tokens</title></rect>
-<rect data-date="2026-09-24" data-col="44" data-row="3" data-level="0" x="418.94" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-24: 0 tokens</title></rect>
-<rect data-date="2026-09-25" data-col="44" data-row="4" data-level="0" x="418.94" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-25: 0 tokens</title></rect>
-<rect data-date="2026-09-26" data-col="44" data-row="5" data-level="0" x="418.94" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-26: 0 tokens</title></rect>
-<rect data-date="2026-09-27" data-col="44" data-row="6" data-level="0" x="418.94" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-27: 0 tokens</title></rect>
-<rect data-date="2026-09-28" data-col="45" data-row="0" data-level="0" x="427.28" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-28: 0 tokens</title></rect>
-<rect data-date="2026-09-29" data-col="45" data-row="1" data-level="0" x="427.28" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-29: 0 tokens</title></rect>
-<rect data-date="2026-09-30" data-col="45" data-row="2" data-level="0" x="427.28" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-30: 0 tokens</title></rect>
-<rect data-date="2026-10-01" data-col="45" data-row="3" data-level="0" x="427.28" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-01: 0 tokens</title></rect>
-<rect data-date="2026-10-02" data-col="45" data-row="4" data-level="0" x="427.28" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-02: 0 tokens</title></rect>
-<rect data-date="2026-10-03" data-col="45" data-row="5" data-level="0" x="427.28" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-03: 0 tokens</title></rect>
-<rect data-date="2026-10-04" data-col="45" data-row="6" data-level="0" x="427.28" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-04: 0 tokens</title></rect>
-<rect data-date="2026-10-05" data-col="46" data-row="0" data-level="0" x="435.62" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-05: 0 tokens</title></rect>
-<rect data-date="2026-10-06" data-col="46" data-row="1" data-level="0" x="435.62" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-06: 0 tokens</title></rect>
-<rect data-date="2026-10-07" data-col="46" data-row="2" data-level="0" x="435.62" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-07: 0 tokens</title></rect>
-<rect data-date="2026-10-08" data-col="46" data-row="3" data-level="0" x="435.62" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-08: 0 tokens</title></rect>
-<rect data-date="2026-10-09" data-col="46" data-row="4" data-level="0" x="435.62" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-09: 0 tokens</title></rect>
-<rect data-date="2026-10-10" data-col="46" data-row="5" data-level="0" x="435.62" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-10: 0 tokens</title></rect>
-<rect data-date="2026-10-11" data-col="46" data-row="6" data-level="0" x="435.62" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-11: 0 tokens</title></rect>
-<rect data-date="2026-10-12" data-col="47" data-row="0" data-level="0" x="443.96" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-12: 0 tokens</title></rect>
-<rect data-date="2026-10-13" data-col="47" data-row="1" data-level="0" x="443.96" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-13: 0 tokens</title></rect>
-<rect data-date="2026-10-14" data-col="47" data-row="2" data-level="1" x="443.96" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-14: 547606 tokens</title></rect>
-<rect data-date="2026-10-15" data-col="47" data-row="3" data-level="1" x="443.96" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-15: 1837637 tokens</title></rect>
-<rect data-date="2026-10-16" data-col="47" data-row="4" data-level="1" x="443.96" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-16: 1318859 tokens</title></rect>
-<rect data-date="2026-10-17" data-col="47" data-row="5" data-level="0" x="443.96" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-17: 0 tokens</title></rect>
-<rect data-date="2026-10-18" data-col="47" data-row="6" data-level="1" x="443.96" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-18: 1386337 tokens</title></rect>
-<rect data-date="2026-10-19" data-col="48" data-row="0" data-level="1" x="452.30" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-19: 1853885 tokens</title></rect>
-<rect data-date="2026-10-20" data-col="48" data-row="1" data-level="1" x="452.30" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-20: 1168154 tokens</title></rect>
-<rect data-date="2026-10-21" data-col="48" data-row="2" data-level="1" x="452.30" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-21: 2205024 tokens</title></rect>
-<rect data-date="2026-10-22" data-col="48" data-row="3" data-level="1" x="452.30" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-22: 900914 tokens</title></rect>
-<rect data-date="2026-10-23" data-col="48" data-row="4" data-level="1" x="452.30" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-23: 4523857 tokens</title></rect>
-<rect data-date="2026-10-24" data-col="48" data-row="5" data-level="1" x="452.30" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-24: 2685614 tokens</title></rect>
-<rect data-date="2026-10-25" data-col="48" data-row="6" data-level="1" x="452.30" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-25: 2780561 tokens</title></rect>
-<rect data-date="2026-10-26" data-col="49" data-row="0" data-level="1" x="460.64" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-26: 7129864 tokens</title></rect>
-<rect data-date="2026-10-27" data-col="49" data-row="1" data-level="1" x="460.64" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-27: 10560971 tokens</title></rect>
-<rect data-date="2026-10-28" data-col="49" data-row="2" data-level="1" x="460.64" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-28: 8753024 tokens</title></rect>
-<rect data-date="2026-10-29" data-col="49" data-row="3" data-level="1" x="460.64" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-29: 1301194 tokens</title></rect>
-<rect data-date="2026-10-30" data-col="49" data-row="4" data-level="1" x="460.64" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-30: 6990250 tokens</title></rect>
-<rect data-date="2026-10-31" data-col="49" data-row="5" data-level="1" x="460.64" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-31: 626210 tokens</title></rect>
-<rect data-date="2026-11-01" data-col="49" data-row="6" data-level="1" x="460.64" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-01: 930715 tokens</title></rect>
-<rect data-date="2026-11-02" data-col="50" data-row="0" data-level="1" x="468.98" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-02: 1665308 tokens</title></rect>
-<rect data-date="2026-11-03" data-col="50" data-row="1" data-level="1" x="468.98" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-03: 1626601 tokens</title></rect>
-<rect data-date="2026-11-04" data-col="50" data-row="2" data-level="1" x="468.98" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-04: 357937 tokens</title></rect>
-<rect data-date="2026-11-05" data-col="50" data-row="3" data-level="1" x="468.98" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-05: 2267149 tokens</title></rect>
-<rect data-date="2026-11-06" data-col="50" data-row="4" data-level="1" x="468.98" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-06: 2162096 tokens</title></rect>
-<rect data-date="2026-11-07" data-col="50" data-row="5" data-level="1" x="468.98" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-07: 4135712 tokens</title></rect>
-<rect data-date="2026-11-08" data-col="50" data-row="6" data-level="1" x="468.98" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-08: 6636447 tokens</title></rect>
-<rect data-date="2026-11-09" data-col="51" data-row="0" data-level="1" x="477.32" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-09: 10572823 tokens</title></rect>
-<rect data-date="2026-11-10" data-col="51" data-row="1" data-level="2" x="477.32" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#b695f1"><title>2026-11-10: 13613295 tokens</title></rect>
-<rect data-date="2026-11-11" data-col="51" data-row="2" data-level="1" x="477.32" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-11: 8866801 tokens</title></rect>
-<rect data-date="2026-11-12" data-col="51" data-row="3" data-level="1" x="477.32" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-12: 8701101 tokens</title></rect>
-<rect data-date="2026-11-13" data-col="51" data-row="4" data-level="1" x="477.32" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-13: 2357421 tokens</title></rect>
-<rect data-date="2026-11-14" data-col="51" data-row="5" data-level="1" x="477.32" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-14: 3458893 tokens</title></rect>
-<rect data-date="2026-11-15" data-col="51" data-row="6" data-level="1" x="477.32" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-15: 2525339 tokens</title></rect>
-<rect data-date="2026-11-16" data-col="52" data-row="0" data-level="1" x="485.66" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-16: 4291803 tokens</title></rect>
-<rect data-date="2026-11-17" data-col="52" data-row="1" data-level="2" x="485.66" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#b695f1"><title>2026-11-17: 14405824 tokens</title></rect>
-<rect data-date="2026-11-18" data-col="52" data-row="2" data-level="1" x="485.66" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-18: 10093148 tokens</title></rect>
-<rect data-date="2026-11-19" data-col="52" data-row="3" data-level="1" x="485.66" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-19: 8155017 tokens</title></rect>
-<rect data-date="2026-11-20" data-col="52" data-row="4" data-level="3" x="485.66" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#9968ef"><title>2026-11-20: 31330677 tokens</title></rect>
-<rect data-date="2026-11-21" data-col="52" data-row="5" data-level="4" x="485.66" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#7c3aed"><title>2026-11-21: 46063955 tokens</title></rect>
-<rect data-date="2026-11-22" data-col="52" data-row="6" data-level="1" x="485.66" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-22: 2354084 tokens</title></rect>
-<text x="26" y="310.37735849056605" font-size="8" fill="#53647B" >2025-11-17 → 2026-11-22</text>
+<rect data-date="2025-11-24" data-col="0" data-row="0" data-level="0" x="52.00" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-24: 0 tokens</title></rect>
+<rect data-date="2025-11-25" data-col="0" data-row="1" data-level="0" x="52.00" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-25: 0 tokens</title></rect>
+<rect data-date="2025-11-26" data-col="0" data-row="2" data-level="0" x="52.00" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-26: 0 tokens</title></rect>
+<rect data-date="2025-11-27" data-col="0" data-row="3" data-level="0" x="52.00" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-27: 0 tokens</title></rect>
+<rect data-date="2025-11-28" data-col="0" data-row="4" data-level="0" x="52.00" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-28: 0 tokens</title></rect>
+<rect data-date="2025-11-29" data-col="0" data-row="5" data-level="0" x="52.00" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-29: 0 tokens</title></rect>
+<rect data-date="2025-11-30" data-col="0" data-row="6" data-level="0" x="52.00" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-11-30: 0 tokens</title></rect>
+<rect data-date="2025-12-01" data-col="1" data-row="0" data-level="0" x="60.34" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-01: 0 tokens</title></rect>
+<rect data-date="2025-12-02" data-col="1" data-row="1" data-level="0" x="60.34" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-02: 0 tokens</title></rect>
+<rect data-date="2025-12-03" data-col="1" data-row="2" data-level="0" x="60.34" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-03: 0 tokens</title></rect>
+<rect data-date="2025-12-04" data-col="1" data-row="3" data-level="0" x="60.34" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-04: 0 tokens</title></rect>
+<rect data-date="2025-12-05" data-col="1" data-row="4" data-level="0" x="60.34" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-05: 0 tokens</title></rect>
+<rect data-date="2025-12-06" data-col="1" data-row="5" data-level="0" x="60.34" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-06: 0 tokens</title></rect>
+<rect data-date="2025-12-07" data-col="1" data-row="6" data-level="0" x="60.34" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-07: 0 tokens</title></rect>
+<rect data-date="2025-12-08" data-col="2" data-row="0" data-level="0" x="68.68" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-08: 0 tokens</title></rect>
+<rect data-date="2025-12-09" data-col="2" data-row="1" data-level="0" x="68.68" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-09: 0 tokens</title></rect>
+<rect data-date="2025-12-10" data-col="2" data-row="2" data-level="0" x="68.68" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-10: 0 tokens</title></rect>
+<rect data-date="2025-12-11" data-col="2" data-row="3" data-level="0" x="68.68" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-11: 0 tokens</title></rect>
+<rect data-date="2025-12-12" data-col="2" data-row="4" data-level="0" x="68.68" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-12: 0 tokens</title></rect>
+<rect data-date="2025-12-13" data-col="2" data-row="5" data-level="0" x="68.68" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-13: 0 tokens</title></rect>
+<rect data-date="2025-12-14" data-col="2" data-row="6" data-level="0" x="68.68" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-14: 0 tokens</title></rect>
+<rect data-date="2025-12-15" data-col="3" data-row="0" data-level="0" x="77.02" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-15: 0 tokens</title></rect>
+<rect data-date="2025-12-16" data-col="3" data-row="1" data-level="0" x="77.02" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-16: 0 tokens</title></rect>
+<rect data-date="2025-12-17" data-col="3" data-row="2" data-level="0" x="77.02" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-17: 0 tokens</title></rect>
+<rect data-date="2025-12-18" data-col="3" data-row="3" data-level="0" x="77.02" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-18: 0 tokens</title></rect>
+<rect data-date="2025-12-19" data-col="3" data-row="4" data-level="0" x="77.02" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-19: 0 tokens</title></rect>
+<rect data-date="2025-12-20" data-col="3" data-row="5" data-level="0" x="77.02" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-20: 0 tokens</title></rect>
+<rect data-date="2025-12-21" data-col="3" data-row="6" data-level="0" x="77.02" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-21: 0 tokens</title></rect>
+<rect data-date="2025-12-22" data-col="4" data-row="0" data-level="0" x="85.36" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-22: 0 tokens</title></rect>
+<rect data-date="2025-12-23" data-col="4" data-row="1" data-level="0" x="85.36" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-23: 0 tokens</title></rect>
+<rect data-date="2025-12-24" data-col="4" data-row="2" data-level="0" x="85.36" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-24: 0 tokens</title></rect>
+<rect data-date="2025-12-25" data-col="4" data-row="3" data-level="0" x="85.36" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-25: 0 tokens</title></rect>
+<rect data-date="2025-12-26" data-col="4" data-row="4" data-level="0" x="85.36" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-26: 0 tokens</title></rect>
+<rect data-date="2025-12-27" data-col="4" data-row="5" data-level="0" x="85.36" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-27: 0 tokens</title></rect>
+<rect data-date="2025-12-28" data-col="4" data-row="6" data-level="0" x="85.36" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-28: 0 tokens</title></rect>
+<rect data-date="2025-12-29" data-col="5" data-row="0" data-level="0" x="93.70" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-29: 0 tokens</title></rect>
+<rect data-date="2025-12-30" data-col="5" data-row="1" data-level="0" x="93.70" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-30: 0 tokens</title></rect>
+<rect data-date="2025-12-31" data-col="5" data-row="2" data-level="0" x="93.70" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2025-12-31: 0 tokens</title></rect>
+<rect data-date="2026-01-01" data-col="5" data-row="3" data-level="0" x="93.70" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-01: 0 tokens</title></rect>
+<rect data-date="2026-01-02" data-col="5" data-row="4" data-level="0" x="93.70" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-02: 0 tokens</title></rect>
+<rect data-date="2026-01-03" data-col="5" data-row="5" data-level="0" x="93.70" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-03: 0 tokens</title></rect>
+<rect data-date="2026-01-04" data-col="5" data-row="6" data-level="0" x="93.70" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-04: 0 tokens</title></rect>
+<rect data-date="2026-01-05" data-col="6" data-row="0" data-level="0" x="102.04" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-05: 0 tokens</title></rect>
+<rect data-date="2026-01-06" data-col="6" data-row="1" data-level="0" x="102.04" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-06: 0 tokens</title></rect>
+<rect data-date="2026-01-07" data-col="6" data-row="2" data-level="0" x="102.04" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-07: 0 tokens</title></rect>
+<rect data-date="2026-01-08" data-col="6" data-row="3" data-level="0" x="102.04" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-08: 0 tokens</title></rect>
+<rect data-date="2026-01-09" data-col="6" data-row="4" data-level="0" x="102.04" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-09: 0 tokens</title></rect>
+<rect data-date="2026-01-10" data-col="6" data-row="5" data-level="0" x="102.04" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-10: 0 tokens</title></rect>
+<rect data-date="2026-01-11" data-col="6" data-row="6" data-level="0" x="102.04" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-11: 0 tokens</title></rect>
+<rect data-date="2026-01-12" data-col="7" data-row="0" data-level="0" x="110.38" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-12: 0 tokens</title></rect>
+<rect data-date="2026-01-13" data-col="7" data-row="1" data-level="0" x="110.38" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-13: 0 tokens</title></rect>
+<rect data-date="2026-01-14" data-col="7" data-row="2" data-level="0" x="110.38" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-14: 0 tokens</title></rect>
+<rect data-date="2026-01-15" data-col="7" data-row="3" data-level="0" x="110.38" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-15: 0 tokens</title></rect>
+<rect data-date="2026-01-16" data-col="7" data-row="4" data-level="0" x="110.38" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-16: 0 tokens</title></rect>
+<rect data-date="2026-01-17" data-col="7" data-row="5" data-level="0" x="110.38" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-17: 0 tokens</title></rect>
+<rect data-date="2026-01-18" data-col="7" data-row="6" data-level="0" x="110.38" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-18: 0 tokens</title></rect>
+<rect data-date="2026-01-19" data-col="8" data-row="0" data-level="0" x="118.72" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-19: 0 tokens</title></rect>
+<rect data-date="2026-01-20" data-col="8" data-row="1" data-level="0" x="118.72" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-20: 0 tokens</title></rect>
+<rect data-date="2026-01-21" data-col="8" data-row="2" data-level="0" x="118.72" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-21: 0 tokens</title></rect>
+<rect data-date="2026-01-22" data-col="8" data-row="3" data-level="0" x="118.72" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-22: 0 tokens</title></rect>
+<rect data-date="2026-01-23" data-col="8" data-row="4" data-level="0" x="118.72" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-23: 0 tokens</title></rect>
+<rect data-date="2026-01-24" data-col="8" data-row="5" data-level="0" x="118.72" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-24: 0 tokens</title></rect>
+<rect data-date="2026-01-25" data-col="8" data-row="6" data-level="0" x="118.72" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-25: 0 tokens</title></rect>
+<rect data-date="2026-01-26" data-col="9" data-row="0" data-level="0" x="127.06" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-26: 0 tokens</title></rect>
+<rect data-date="2026-01-27" data-col="9" data-row="1" data-level="0" x="127.06" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-27: 0 tokens</title></rect>
+<rect data-date="2026-01-28" data-col="9" data-row="2" data-level="0" x="127.06" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-28: 0 tokens</title></rect>
+<rect data-date="2026-01-29" data-col="9" data-row="3" data-level="0" x="127.06" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-29: 0 tokens</title></rect>
+<rect data-date="2026-01-30" data-col="9" data-row="4" data-level="0" x="127.06" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-30: 0 tokens</title></rect>
+<rect data-date="2026-01-31" data-col="9" data-row="5" data-level="0" x="127.06" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-01-31: 0 tokens</title></rect>
+<rect data-date="2026-02-01" data-col="9" data-row="6" data-level="0" x="127.06" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-01: 0 tokens</title></rect>
+<rect data-date="2026-02-02" data-col="10" data-row="0" data-level="0" x="135.40" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-02: 0 tokens</title></rect>
+<rect data-date="2026-02-03" data-col="10" data-row="1" data-level="0" x="135.40" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-03: 0 tokens</title></rect>
+<rect data-date="2026-02-04" data-col="10" data-row="2" data-level="0" x="135.40" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-04: 0 tokens</title></rect>
+<rect data-date="2026-02-05" data-col="10" data-row="3" data-level="0" x="135.40" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-05: 0 tokens</title></rect>
+<rect data-date="2026-02-06" data-col="10" data-row="4" data-level="0" x="135.40" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-06: 0 tokens</title></rect>
+<rect data-date="2026-02-07" data-col="10" data-row="5" data-level="0" x="135.40" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-07: 0 tokens</title></rect>
+<rect data-date="2026-02-08" data-col="10" data-row="6" data-level="0" x="135.40" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-08: 0 tokens</title></rect>
+<rect data-date="2026-02-09" data-col="11" data-row="0" data-level="0" x="143.74" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-09: 0 tokens</title></rect>
+<rect data-date="2026-02-10" data-col="11" data-row="1" data-level="0" x="143.74" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-10: 0 tokens</title></rect>
+<rect data-date="2026-02-11" data-col="11" data-row="2" data-level="0" x="143.74" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-11: 0 tokens</title></rect>
+<rect data-date="2026-02-12" data-col="11" data-row="3" data-level="0" x="143.74" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-12: 0 tokens</title></rect>
+<rect data-date="2026-02-13" data-col="11" data-row="4" data-level="0" x="143.74" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-13: 0 tokens</title></rect>
+<rect data-date="2026-02-14" data-col="11" data-row="5" data-level="0" x="143.74" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-14: 0 tokens</title></rect>
+<rect data-date="2026-02-15" data-col="11" data-row="6" data-level="0" x="143.74" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-15: 0 tokens</title></rect>
+<rect data-date="2026-02-16" data-col="12" data-row="0" data-level="0" x="152.08" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-16: 0 tokens</title></rect>
+<rect data-date="2026-02-17" data-col="12" data-row="1" data-level="0" x="152.08" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-17: 0 tokens</title></rect>
+<rect data-date="2026-02-18" data-col="12" data-row="2" data-level="0" x="152.08" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-18: 0 tokens</title></rect>
+<rect data-date="2026-02-19" data-col="12" data-row="3" data-level="0" x="152.08" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-19: 0 tokens</title></rect>
+<rect data-date="2026-02-20" data-col="12" data-row="4" data-level="0" x="152.08" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-20: 0 tokens</title></rect>
+<rect data-date="2026-02-21" data-col="12" data-row="5" data-level="0" x="152.08" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-21: 0 tokens</title></rect>
+<rect data-date="2026-02-22" data-col="12" data-row="6" data-level="0" x="152.08" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-22: 0 tokens</title></rect>
+<rect data-date="2026-02-23" data-col="13" data-row="0" data-level="0" x="160.42" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-23: 0 tokens</title></rect>
+<rect data-date="2026-02-24" data-col="13" data-row="1" data-level="0" x="160.42" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-24: 0 tokens</title></rect>
+<rect data-date="2026-02-25" data-col="13" data-row="2" data-level="0" x="160.42" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-25: 0 tokens</title></rect>
+<rect data-date="2026-02-26" data-col="13" data-row="3" data-level="0" x="160.42" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-26: 0 tokens</title></rect>
+<rect data-date="2026-02-27" data-col="13" data-row="4" data-level="0" x="160.42" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-27: 0 tokens</title></rect>
+<rect data-date="2026-02-28" data-col="13" data-row="5" data-level="0" x="160.42" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-02-28: 0 tokens</title></rect>
+<rect data-date="2026-03-01" data-col="13" data-row="6" data-level="0" x="160.42" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-01: 0 tokens</title></rect>
+<rect data-date="2026-03-02" data-col="14" data-row="0" data-level="0" x="168.75" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-02: 0 tokens</title></rect>
+<rect data-date="2026-03-03" data-col="14" data-row="1" data-level="0" x="168.75" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-03: 0 tokens</title></rect>
+<rect data-date="2026-03-04" data-col="14" data-row="2" data-level="0" x="168.75" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-04: 0 tokens</title></rect>
+<rect data-date="2026-03-05" data-col="14" data-row="3" data-level="0" x="168.75" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-05: 0 tokens</title></rect>
+<rect data-date="2026-03-06" data-col="14" data-row="4" data-level="0" x="168.75" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-06: 0 tokens</title></rect>
+<rect data-date="2026-03-07" data-col="14" data-row="5" data-level="0" x="168.75" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-07: 0 tokens</title></rect>
+<rect data-date="2026-03-08" data-col="14" data-row="6" data-level="0" x="168.75" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-08: 0 tokens</title></rect>
+<rect data-date="2026-03-09" data-col="15" data-row="0" data-level="0" x="177.09" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-09: 0 tokens</title></rect>
+<rect data-date="2026-03-10" data-col="15" data-row="1" data-level="0" x="177.09" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-10: 0 tokens</title></rect>
+<rect data-date="2026-03-11" data-col="15" data-row="2" data-level="0" x="177.09" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-11: 0 tokens</title></rect>
+<rect data-date="2026-03-12" data-col="15" data-row="3" data-level="0" x="177.09" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-12: 0 tokens</title></rect>
+<rect data-date="2026-03-13" data-col="15" data-row="4" data-level="0" x="177.09" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-13: 0 tokens</title></rect>
+<rect data-date="2026-03-14" data-col="15" data-row="5" data-level="0" x="177.09" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-14: 0 tokens</title></rect>
+<rect data-date="2026-03-15" data-col="15" data-row="6" data-level="0" x="177.09" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-15: 0 tokens</title></rect>
+<rect data-date="2026-03-16" data-col="16" data-row="0" data-level="0" x="185.43" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-16: 0 tokens</title></rect>
+<rect data-date="2026-03-17" data-col="16" data-row="1" data-level="0" x="185.43" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-17: 0 tokens</title></rect>
+<rect data-date="2026-03-18" data-col="16" data-row="2" data-level="0" x="185.43" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-18: 0 tokens</title></rect>
+<rect data-date="2026-03-19" data-col="16" data-row="3" data-level="0" x="185.43" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-19: 0 tokens</title></rect>
+<rect data-date="2026-03-20" data-col="16" data-row="4" data-level="0" x="185.43" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-20: 0 tokens</title></rect>
+<rect data-date="2026-03-21" data-col="16" data-row="5" data-level="0" x="185.43" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-21: 0 tokens</title></rect>
+<rect data-date="2026-03-22" data-col="16" data-row="6" data-level="0" x="185.43" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-22: 0 tokens</title></rect>
+<rect data-date="2026-03-23" data-col="17" data-row="0" data-level="0" x="193.77" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-23: 0 tokens</title></rect>
+<rect data-date="2026-03-24" data-col="17" data-row="1" data-level="0" x="193.77" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-24: 0 tokens</title></rect>
+<rect data-date="2026-03-25" data-col="17" data-row="2" data-level="0" x="193.77" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-25: 0 tokens</title></rect>
+<rect data-date="2026-03-26" data-col="17" data-row="3" data-level="0" x="193.77" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-26: 0 tokens</title></rect>
+<rect data-date="2026-03-27" data-col="17" data-row="4" data-level="0" x="193.77" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-27: 0 tokens</title></rect>
+<rect data-date="2026-03-28" data-col="17" data-row="5" data-level="0" x="193.77" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-28: 0 tokens</title></rect>
+<rect data-date="2026-03-29" data-col="17" data-row="6" data-level="0" x="193.77" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-29: 0 tokens</title></rect>
+<rect data-date="2026-03-30" data-col="18" data-row="0" data-level="0" x="202.11" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-30: 0 tokens</title></rect>
+<rect data-date="2026-03-31" data-col="18" data-row="1" data-level="0" x="202.11" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-03-31: 0 tokens</title></rect>
+<rect data-date="2026-04-01" data-col="18" data-row="2" data-level="0" x="202.11" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-01: 0 tokens</title></rect>
+<rect data-date="2026-04-02" data-col="18" data-row="3" data-level="0" x="202.11" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-02: 0 tokens</title></rect>
+<rect data-date="2026-04-03" data-col="18" data-row="4" data-level="0" x="202.11" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-03: 0 tokens</title></rect>
+<rect data-date="2026-04-04" data-col="18" data-row="5" data-level="0" x="202.11" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-04: 0 tokens</title></rect>
+<rect data-date="2026-04-05" data-col="18" data-row="6" data-level="0" x="202.11" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-05: 0 tokens</title></rect>
+<rect data-date="2026-04-06" data-col="19" data-row="0" data-level="0" x="210.45" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-06: 0 tokens</title></rect>
+<rect data-date="2026-04-07" data-col="19" data-row="1" data-level="0" x="210.45" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-07: 0 tokens</title></rect>
+<rect data-date="2026-04-08" data-col="19" data-row="2" data-level="0" x="210.45" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-08: 0 tokens</title></rect>
+<rect data-date="2026-04-09" data-col="19" data-row="3" data-level="0" x="210.45" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-09: 0 tokens</title></rect>
+<rect data-date="2026-04-10" data-col="19" data-row="4" data-level="0" x="210.45" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-10: 0 tokens</title></rect>
+<rect data-date="2026-04-11" data-col="19" data-row="5" data-level="0" x="210.45" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-11: 0 tokens</title></rect>
+<rect data-date="2026-04-12" data-col="19" data-row="6" data-level="0" x="210.45" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-12: 0 tokens</title></rect>
+<rect data-date="2026-04-13" data-col="20" data-row="0" data-level="0" x="218.79" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-13: 0 tokens</title></rect>
+<rect data-date="2026-04-14" data-col="20" data-row="1" data-level="0" x="218.79" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-14: 0 tokens</title></rect>
+<rect data-date="2026-04-15" data-col="20" data-row="2" data-level="0" x="218.79" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-15: 0 tokens</title></rect>
+<rect data-date="2026-04-16" data-col="20" data-row="3" data-level="0" x="218.79" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-16: 0 tokens</title></rect>
+<rect data-date="2026-04-17" data-col="20" data-row="4" data-level="0" x="218.79" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-17: 0 tokens</title></rect>
+<rect data-date="2026-04-18" data-col="20" data-row="5" data-level="0" x="218.79" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-18: 0 tokens</title></rect>
+<rect data-date="2026-04-19" data-col="20" data-row="6" data-level="0" x="218.79" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-19: 0 tokens</title></rect>
+<rect data-date="2026-04-20" data-col="21" data-row="0" data-level="0" x="227.13" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-20: 0 tokens</title></rect>
+<rect data-date="2026-04-21" data-col="21" data-row="1" data-level="0" x="227.13" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-21: 0 tokens</title></rect>
+<rect data-date="2026-04-22" data-col="21" data-row="2" data-level="0" x="227.13" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-22: 0 tokens</title></rect>
+<rect data-date="2026-04-23" data-col="21" data-row="3" data-level="0" x="227.13" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-23: 0 tokens</title></rect>
+<rect data-date="2026-04-24" data-col="21" data-row="4" data-level="0" x="227.13" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-24: 0 tokens</title></rect>
+<rect data-date="2026-04-25" data-col="21" data-row="5" data-level="0" x="227.13" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-25: 0 tokens</title></rect>
+<rect data-date="2026-04-26" data-col="21" data-row="6" data-level="0" x="227.13" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-26: 0 tokens</title></rect>
+<rect data-date="2026-04-27" data-col="22" data-row="0" data-level="0" x="235.47" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-27: 0 tokens</title></rect>
+<rect data-date="2026-04-28" data-col="22" data-row="1" data-level="0" x="235.47" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-28: 0 tokens</title></rect>
+<rect data-date="2026-04-29" data-col="22" data-row="2" data-level="0" x="235.47" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-29: 0 tokens</title></rect>
+<rect data-date="2026-04-30" data-col="22" data-row="3" data-level="0" x="235.47" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-04-30: 0 tokens</title></rect>
+<rect data-date="2026-05-01" data-col="22" data-row="4" data-level="0" x="235.47" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-01: 0 tokens</title></rect>
+<rect data-date="2026-05-02" data-col="22" data-row="5" data-level="0" x="235.47" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-02: 0 tokens</title></rect>
+<rect data-date="2026-05-03" data-col="22" data-row="6" data-level="0" x="235.47" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-03: 0 tokens</title></rect>
+<rect data-date="2026-05-04" data-col="23" data-row="0" data-level="0" x="243.81" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-04: 0 tokens</title></rect>
+<rect data-date="2026-05-05" data-col="23" data-row="1" data-level="0" x="243.81" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-05: 0 tokens</title></rect>
+<rect data-date="2026-05-06" data-col="23" data-row="2" data-level="0" x="243.81" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-06: 0 tokens</title></rect>
+<rect data-date="2026-05-07" data-col="23" data-row="3" data-level="0" x="243.81" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-07: 0 tokens</title></rect>
+<rect data-date="2026-05-08" data-col="23" data-row="4" data-level="0" x="243.81" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-08: 0 tokens</title></rect>
+<rect data-date="2026-05-09" data-col="23" data-row="5" data-level="0" x="243.81" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-09: 0 tokens</title></rect>
+<rect data-date="2026-05-10" data-col="23" data-row="6" data-level="0" x="243.81" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-10: 0 tokens</title></rect>
+<rect data-date="2026-05-11" data-col="24" data-row="0" data-level="0" x="252.15" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-11: 0 tokens</title></rect>
+<rect data-date="2026-05-12" data-col="24" data-row="1" data-level="0" x="252.15" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-12: 0 tokens</title></rect>
+<rect data-date="2026-05-13" data-col="24" data-row="2" data-level="0" x="252.15" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-13: 0 tokens</title></rect>
+<rect data-date="2026-05-14" data-col="24" data-row="3" data-level="0" x="252.15" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-14: 0 tokens</title></rect>
+<rect data-date="2026-05-15" data-col="24" data-row="4" data-level="0" x="252.15" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-15: 0 tokens</title></rect>
+<rect data-date="2026-05-16" data-col="24" data-row="5" data-level="0" x="252.15" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-16: 0 tokens</title></rect>
+<rect data-date="2026-05-17" data-col="24" data-row="6" data-level="0" x="252.15" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-17: 0 tokens</title></rect>
+<rect data-date="2026-05-18" data-col="25" data-row="0" data-level="0" x="260.49" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-18: 0 tokens</title></rect>
+<rect data-date="2026-05-19" data-col="25" data-row="1" data-level="0" x="260.49" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-19: 0 tokens</title></rect>
+<rect data-date="2026-05-20" data-col="25" data-row="2" data-level="0" x="260.49" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-20: 0 tokens</title></rect>
+<rect data-date="2026-05-21" data-col="25" data-row="3" data-level="0" x="260.49" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-21: 0 tokens</title></rect>
+<rect data-date="2026-05-22" data-col="25" data-row="4" data-level="0" x="260.49" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-22: 0 tokens</title></rect>
+<rect data-date="2026-05-23" data-col="25" data-row="5" data-level="0" x="260.49" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-23: 0 tokens</title></rect>
+<rect data-date="2026-05-24" data-col="25" data-row="6" data-level="0" x="260.49" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-24: 0 tokens</title></rect>
+<rect data-date="2026-05-25" data-col="26" data-row="0" data-level="0" x="268.83" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-25: 0 tokens</title></rect>
+<rect data-date="2026-05-26" data-col="26" data-row="1" data-level="0" x="268.83" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-26: 0 tokens</title></rect>
+<rect data-date="2026-05-27" data-col="26" data-row="2" data-level="0" x="268.83" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-27: 0 tokens</title></rect>
+<rect data-date="2026-05-28" data-col="26" data-row="3" data-level="0" x="268.83" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-28: 0 tokens</title></rect>
+<rect data-date="2026-05-29" data-col="26" data-row="4" data-level="0" x="268.83" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-29: 0 tokens</title></rect>
+<rect data-date="2026-05-30" data-col="26" data-row="5" data-level="0" x="268.83" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-30: 0 tokens</title></rect>
+<rect data-date="2026-05-31" data-col="26" data-row="6" data-level="0" x="268.83" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-05-31: 0 tokens</title></rect>
+<rect data-date="2026-06-01" data-col="27" data-row="0" data-level="0" x="277.17" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-01: 0 tokens</title></rect>
+<rect data-date="2026-06-02" data-col="27" data-row="1" data-level="0" x="277.17" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-02: 0 tokens</title></rect>
+<rect data-date="2026-06-03" data-col="27" data-row="2" data-level="0" x="277.17" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-03: 0 tokens</title></rect>
+<rect data-date="2026-06-04" data-col="27" data-row="3" data-level="0" x="277.17" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-04: 0 tokens</title></rect>
+<rect data-date="2026-06-05" data-col="27" data-row="4" data-level="0" x="277.17" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-05: 0 tokens</title></rect>
+<rect data-date="2026-06-06" data-col="27" data-row="5" data-level="0" x="277.17" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-06: 0 tokens</title></rect>
+<rect data-date="2026-06-07" data-col="27" data-row="6" data-level="0" x="277.17" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-07: 0 tokens</title></rect>
+<rect data-date="2026-06-08" data-col="28" data-row="0" data-level="0" x="285.51" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-08: 0 tokens</title></rect>
+<rect data-date="2026-06-09" data-col="28" data-row="1" data-level="0" x="285.51" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-09: 0 tokens</title></rect>
+<rect data-date="2026-06-10" data-col="28" data-row="2" data-level="0" x="285.51" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-10: 0 tokens</title></rect>
+<rect data-date="2026-06-11" data-col="28" data-row="3" data-level="0" x="285.51" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-11: 0 tokens</title></rect>
+<rect data-date="2026-06-12" data-col="28" data-row="4" data-level="0" x="285.51" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-12: 0 tokens</title></rect>
+<rect data-date="2026-06-13" data-col="28" data-row="5" data-level="0" x="285.51" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-13: 0 tokens</title></rect>
+<rect data-date="2026-06-14" data-col="28" data-row="6" data-level="0" x="285.51" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-14: 0 tokens</title></rect>
+<rect data-date="2026-06-15" data-col="29" data-row="0" data-level="0" x="293.85" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-15: 0 tokens</title></rect>
+<rect data-date="2026-06-16" data-col="29" data-row="1" data-level="0" x="293.85" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-16: 0 tokens</title></rect>
+<rect data-date="2026-06-17" data-col="29" data-row="2" data-level="0" x="293.85" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-17: 0 tokens</title></rect>
+<rect data-date="2026-06-18" data-col="29" data-row="3" data-level="0" x="293.85" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-18: 0 tokens</title></rect>
+<rect data-date="2026-06-19" data-col="29" data-row="4" data-level="0" x="293.85" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-19: 0 tokens</title></rect>
+<rect data-date="2026-06-20" data-col="29" data-row="5" data-level="0" x="293.85" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-20: 0 tokens</title></rect>
+<rect data-date="2026-06-21" data-col="29" data-row="6" data-level="0" x="293.85" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-21: 0 tokens</title></rect>
+<rect data-date="2026-06-22" data-col="30" data-row="0" data-level="0" x="302.19" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-22: 0 tokens</title></rect>
+<rect data-date="2026-06-23" data-col="30" data-row="1" data-level="0" x="302.19" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-23: 0 tokens</title></rect>
+<rect data-date="2026-06-24" data-col="30" data-row="2" data-level="0" x="302.19" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-24: 0 tokens</title></rect>
+<rect data-date="2026-06-25" data-col="30" data-row="3" data-level="0" x="302.19" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-25: 0 tokens</title></rect>
+<rect data-date="2026-06-26" data-col="30" data-row="4" data-level="0" x="302.19" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-26: 0 tokens</title></rect>
+<rect data-date="2026-06-27" data-col="30" data-row="5" data-level="0" x="302.19" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-27: 0 tokens</title></rect>
+<rect data-date="2026-06-28" data-col="30" data-row="6" data-level="0" x="302.19" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-28: 0 tokens</title></rect>
+<rect data-date="2026-06-29" data-col="31" data-row="0" data-level="0" x="310.53" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-29: 0 tokens</title></rect>
+<rect data-date="2026-06-30" data-col="31" data-row="1" data-level="0" x="310.53" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-06-30: 0 tokens</title></rect>
+<rect data-date="2026-07-01" data-col="31" data-row="2" data-level="0" x="310.53" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-01: 0 tokens</title></rect>
+<rect data-date="2026-07-02" data-col="31" data-row="3" data-level="0" x="310.53" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-02: 0 tokens</title></rect>
+<rect data-date="2026-07-03" data-col="31" data-row="4" data-level="0" x="310.53" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-03: 0 tokens</title></rect>
+<rect data-date="2026-07-04" data-col="31" data-row="5" data-level="0" x="310.53" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-04: 0 tokens</title></rect>
+<rect data-date="2026-07-05" data-col="31" data-row="6" data-level="0" x="310.53" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-05: 0 tokens</title></rect>
+<rect data-date="2026-07-06" data-col="32" data-row="0" data-level="0" x="318.87" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-06: 0 tokens</title></rect>
+<rect data-date="2026-07-07" data-col="32" data-row="1" data-level="0" x="318.87" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-07: 0 tokens</title></rect>
+<rect data-date="2026-07-08" data-col="32" data-row="2" data-level="0" x="318.87" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-08: 0 tokens</title></rect>
+<rect data-date="2026-07-09" data-col="32" data-row="3" data-level="0" x="318.87" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-09: 0 tokens</title></rect>
+<rect data-date="2026-07-10" data-col="32" data-row="4" data-level="0" x="318.87" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-10: 0 tokens</title></rect>
+<rect data-date="2026-07-11" data-col="32" data-row="5" data-level="0" x="318.87" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-11: 0 tokens</title></rect>
+<rect data-date="2026-07-12" data-col="32" data-row="6" data-level="0" x="318.87" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-12: 0 tokens</title></rect>
+<rect data-date="2026-07-13" data-col="33" data-row="0" data-level="0" x="327.21" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-13: 0 tokens</title></rect>
+<rect data-date="2026-07-14" data-col="33" data-row="1" data-level="0" x="327.21" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-14: 0 tokens</title></rect>
+<rect data-date="2026-07-15" data-col="33" data-row="2" data-level="0" x="327.21" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-15: 0 tokens</title></rect>
+<rect data-date="2026-07-16" data-col="33" data-row="3" data-level="0" x="327.21" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-16: 0 tokens</title></rect>
+<rect data-date="2026-07-17" data-col="33" data-row="4" data-level="0" x="327.21" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-17: 0 tokens</title></rect>
+<rect data-date="2026-07-18" data-col="33" data-row="5" data-level="0" x="327.21" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-18: 0 tokens</title></rect>
+<rect data-date="2026-07-19" data-col="33" data-row="6" data-level="0" x="327.21" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-19: 0 tokens</title></rect>
+<rect data-date="2026-07-20" data-col="34" data-row="0" data-level="0" x="335.55" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-20: 0 tokens</title></rect>
+<rect data-date="2026-07-21" data-col="34" data-row="1" data-level="0" x="335.55" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-21: 0 tokens</title></rect>
+<rect data-date="2026-07-22" data-col="34" data-row="2" data-level="0" x="335.55" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-22: 0 tokens</title></rect>
+<rect data-date="2026-07-23" data-col="34" data-row="3" data-level="0" x="335.55" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-23: 0 tokens</title></rect>
+<rect data-date="2026-07-24" data-col="34" data-row="4" data-level="0" x="335.55" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-24: 0 tokens</title></rect>
+<rect data-date="2026-07-25" data-col="34" data-row="5" data-level="0" x="335.55" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-25: 0 tokens</title></rect>
+<rect data-date="2026-07-26" data-col="34" data-row="6" data-level="0" x="335.55" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-26: 0 tokens</title></rect>
+<rect data-date="2026-07-27" data-col="35" data-row="0" data-level="0" x="343.89" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-27: 0 tokens</title></rect>
+<rect data-date="2026-07-28" data-col="35" data-row="1" data-level="0" x="343.89" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-28: 0 tokens</title></rect>
+<rect data-date="2026-07-29" data-col="35" data-row="2" data-level="0" x="343.89" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-29: 0 tokens</title></rect>
+<rect data-date="2026-07-30" data-col="35" data-row="3" data-level="0" x="343.89" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-30: 0 tokens</title></rect>
+<rect data-date="2026-07-31" data-col="35" data-row="4" data-level="0" x="343.89" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-07-31: 0 tokens</title></rect>
+<rect data-date="2026-08-01" data-col="35" data-row="5" data-level="0" x="343.89" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-01: 0 tokens</title></rect>
+<rect data-date="2026-08-02" data-col="35" data-row="6" data-level="0" x="343.89" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-02: 0 tokens</title></rect>
+<rect data-date="2026-08-03" data-col="36" data-row="0" data-level="0" x="352.23" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-03: 0 tokens</title></rect>
+<rect data-date="2026-08-04" data-col="36" data-row="1" data-level="0" x="352.23" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-04: 0 tokens</title></rect>
+<rect data-date="2026-08-05" data-col="36" data-row="2" data-level="0" x="352.23" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-05: 0 tokens</title></rect>
+<rect data-date="2026-08-06" data-col="36" data-row="3" data-level="0" x="352.23" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-06: 0 tokens</title></rect>
+<rect data-date="2026-08-07" data-col="36" data-row="4" data-level="0" x="352.23" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-07: 0 tokens</title></rect>
+<rect data-date="2026-08-08" data-col="36" data-row="5" data-level="0" x="352.23" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-08: 0 tokens</title></rect>
+<rect data-date="2026-08-09" data-col="36" data-row="6" data-level="0" x="352.23" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-09: 0 tokens</title></rect>
+<rect data-date="2026-08-10" data-col="37" data-row="0" data-level="0" x="360.57" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-10: 0 tokens</title></rect>
+<rect data-date="2026-08-11" data-col="37" data-row="1" data-level="0" x="360.57" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-11: 0 tokens</title></rect>
+<rect data-date="2026-08-12" data-col="37" data-row="2" data-level="0" x="360.57" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-12: 0 tokens</title></rect>
+<rect data-date="2026-08-13" data-col="37" data-row="3" data-level="0" x="360.57" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-13: 0 tokens</title></rect>
+<rect data-date="2026-08-14" data-col="37" data-row="4" data-level="0" x="360.57" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-14: 0 tokens</title></rect>
+<rect data-date="2026-08-15" data-col="37" data-row="5" data-level="0" x="360.57" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-15: 0 tokens</title></rect>
+<rect data-date="2026-08-16" data-col="37" data-row="6" data-level="0" x="360.57" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-16: 0 tokens</title></rect>
+<rect data-date="2026-08-17" data-col="38" data-row="0" data-level="0" x="368.91" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-17: 0 tokens</title></rect>
+<rect data-date="2026-08-18" data-col="38" data-row="1" data-level="0" x="368.91" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-18: 0 tokens</title></rect>
+<rect data-date="2026-08-19" data-col="38" data-row="2" data-level="0" x="368.91" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-19: 0 tokens</title></rect>
+<rect data-date="2026-08-20" data-col="38" data-row="3" data-level="0" x="368.91" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-20: 0 tokens</title></rect>
+<rect data-date="2026-08-21" data-col="38" data-row="4" data-level="0" x="368.91" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-21: 0 tokens</title></rect>
+<rect data-date="2026-08-22" data-col="38" data-row="5" data-level="0" x="368.91" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-22: 0 tokens</title></rect>
+<rect data-date="2026-08-23" data-col="38" data-row="6" data-level="0" x="368.91" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-23: 0 tokens</title></rect>
+<rect data-date="2026-08-24" data-col="39" data-row="0" data-level="0" x="377.25" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-24: 0 tokens</title></rect>
+<rect data-date="2026-08-25" data-col="39" data-row="1" data-level="0" x="377.25" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-25: 0 tokens</title></rect>
+<rect data-date="2026-08-26" data-col="39" data-row="2" data-level="0" x="377.25" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-26: 0 tokens</title></rect>
+<rect data-date="2026-08-27" data-col="39" data-row="3" data-level="0" x="377.25" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-27: 0 tokens</title></rect>
+<rect data-date="2026-08-28" data-col="39" data-row="4" data-level="0" x="377.25" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-28: 0 tokens</title></rect>
+<rect data-date="2026-08-29" data-col="39" data-row="5" data-level="0" x="377.25" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-29: 0 tokens</title></rect>
+<rect data-date="2026-08-30" data-col="39" data-row="6" data-level="0" x="377.25" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-30: 0 tokens</title></rect>
+<rect data-date="2026-08-31" data-col="40" data-row="0" data-level="0" x="385.58" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-08-31: 0 tokens</title></rect>
+<rect data-date="2026-09-01" data-col="40" data-row="1" data-level="0" x="385.58" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-01: 0 tokens</title></rect>
+<rect data-date="2026-09-02" data-col="40" data-row="2" data-level="0" x="385.58" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-02: 0 tokens</title></rect>
+<rect data-date="2026-09-03" data-col="40" data-row="3" data-level="0" x="385.58" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-03: 0 tokens</title></rect>
+<rect data-date="2026-09-04" data-col="40" data-row="4" data-level="0" x="385.58" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-04: 0 tokens</title></rect>
+<rect data-date="2026-09-05" data-col="40" data-row="5" data-level="0" x="385.58" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-05: 0 tokens</title></rect>
+<rect data-date="2026-09-06" data-col="40" data-row="6" data-level="0" x="385.58" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-06: 0 tokens</title></rect>
+<rect data-date="2026-09-07" data-col="41" data-row="0" data-level="0" x="393.92" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-07: 0 tokens</title></rect>
+<rect data-date="2026-09-08" data-col="41" data-row="1" data-level="0" x="393.92" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-08: 0 tokens</title></rect>
+<rect data-date="2026-09-09" data-col="41" data-row="2" data-level="0" x="393.92" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-09: 0 tokens</title></rect>
+<rect data-date="2026-09-10" data-col="41" data-row="3" data-level="0" x="393.92" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-10: 0 tokens</title></rect>
+<rect data-date="2026-09-11" data-col="41" data-row="4" data-level="0" x="393.92" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-11: 0 tokens</title></rect>
+<rect data-date="2026-09-12" data-col="41" data-row="5" data-level="0" x="393.92" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-12: 0 tokens</title></rect>
+<rect data-date="2026-09-13" data-col="41" data-row="6" data-level="0" x="393.92" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-13: 0 tokens</title></rect>
+<rect data-date="2026-09-14" data-col="42" data-row="0" data-level="0" x="402.26" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-14: 0 tokens</title></rect>
+<rect data-date="2026-09-15" data-col="42" data-row="1" data-level="0" x="402.26" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-15: 0 tokens</title></rect>
+<rect data-date="2026-09-16" data-col="42" data-row="2" data-level="0" x="402.26" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-16: 0 tokens</title></rect>
+<rect data-date="2026-09-17" data-col="42" data-row="3" data-level="0" x="402.26" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-17: 0 tokens</title></rect>
+<rect data-date="2026-09-18" data-col="42" data-row="4" data-level="0" x="402.26" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-18: 0 tokens</title></rect>
+<rect data-date="2026-09-19" data-col="42" data-row="5" data-level="0" x="402.26" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-19: 0 tokens</title></rect>
+<rect data-date="2026-09-20" data-col="42" data-row="6" data-level="0" x="402.26" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-20: 0 tokens</title></rect>
+<rect data-date="2026-09-21" data-col="43" data-row="0" data-level="0" x="410.60" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-21: 0 tokens</title></rect>
+<rect data-date="2026-09-22" data-col="43" data-row="1" data-level="0" x="410.60" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-22: 0 tokens</title></rect>
+<rect data-date="2026-09-23" data-col="43" data-row="2" data-level="0" x="410.60" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-23: 0 tokens</title></rect>
+<rect data-date="2026-09-24" data-col="43" data-row="3" data-level="0" x="410.60" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-24: 0 tokens</title></rect>
+<rect data-date="2026-09-25" data-col="43" data-row="4" data-level="0" x="410.60" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-25: 0 tokens</title></rect>
+<rect data-date="2026-09-26" data-col="43" data-row="5" data-level="0" x="410.60" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-26: 0 tokens</title></rect>
+<rect data-date="2026-09-27" data-col="43" data-row="6" data-level="0" x="410.60" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-27: 0 tokens</title></rect>
+<rect data-date="2026-09-28" data-col="44" data-row="0" data-level="0" x="418.94" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-28: 0 tokens</title></rect>
+<rect data-date="2026-09-29" data-col="44" data-row="1" data-level="0" x="418.94" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-29: 0 tokens</title></rect>
+<rect data-date="2026-09-30" data-col="44" data-row="2" data-level="0" x="418.94" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-09-30: 0 tokens</title></rect>
+<rect data-date="2026-10-01" data-col="44" data-row="3" data-level="0" x="418.94" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-01: 0 tokens</title></rect>
+<rect data-date="2026-10-02" data-col="44" data-row="4" data-level="0" x="418.94" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-02: 0 tokens</title></rect>
+<rect data-date="2026-10-03" data-col="44" data-row="5" data-level="0" x="418.94" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-03: 0 tokens</title></rect>
+<rect data-date="2026-10-04" data-col="44" data-row="6" data-level="0" x="418.94" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-04: 0 tokens</title></rect>
+<rect data-date="2026-10-05" data-col="45" data-row="0" data-level="0" x="427.28" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-05: 0 tokens</title></rect>
+<rect data-date="2026-10-06" data-col="45" data-row="1" data-level="0" x="427.28" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-06: 0 tokens</title></rect>
+<rect data-date="2026-10-07" data-col="45" data-row="2" data-level="0" x="427.28" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-07: 0 tokens</title></rect>
+<rect data-date="2026-10-08" data-col="45" data-row="3" data-level="0" x="427.28" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-08: 0 tokens</title></rect>
+<rect data-date="2026-10-09" data-col="45" data-row="4" data-level="0" x="427.28" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-09: 0 tokens</title></rect>
+<rect data-date="2026-10-10" data-col="45" data-row="5" data-level="0" x="427.28" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-10: 0 tokens</title></rect>
+<rect data-date="2026-10-11" data-col="45" data-row="6" data-level="0" x="427.28" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-11: 0 tokens</title></rect>
+<rect data-date="2026-10-12" data-col="46" data-row="0" data-level="0" x="435.62" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-12: 0 tokens</title></rect>
+<rect data-date="2026-10-13" data-col="46" data-row="1" data-level="0" x="435.62" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-13: 0 tokens</title></rect>
+<rect data-date="2026-10-14" data-col="46" data-row="2" data-level="1" x="435.62" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-14: 547606 tokens</title></rect>
+<rect data-date="2026-10-15" data-col="46" data-row="3" data-level="1" x="435.62" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-15: 1837637 tokens</title></rect>
+<rect data-date="2026-10-16" data-col="46" data-row="4" data-level="1" x="435.62" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-16: 1318859 tokens</title></rect>
+<rect data-date="2026-10-17" data-col="46" data-row="5" data-level="0" x="435.62" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#eff0f4"><title>2026-10-17: 0 tokens</title></rect>
+<rect data-date="2026-10-18" data-col="46" data-row="6" data-level="1" x="435.62" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-18: 1386337 tokens</title></rect>
+<rect data-date="2026-10-19" data-col="47" data-row="0" data-level="1" x="443.96" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-19: 1853885 tokens</title></rect>
+<rect data-date="2026-10-20" data-col="47" data-row="1" data-level="1" x="443.96" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-20: 1168154 tokens</title></rect>
+<rect data-date="2026-10-21" data-col="47" data-row="2" data-level="1" x="443.96" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-21: 2205024 tokens</title></rect>
+<rect data-date="2026-10-22" data-col="47" data-row="3" data-level="1" x="443.96" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-22: 900914 tokens</title></rect>
+<rect data-date="2026-10-23" data-col="47" data-row="4" data-level="1" x="443.96" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-23: 4523857 tokens</title></rect>
+<rect data-date="2026-10-24" data-col="47" data-row="5" data-level="1" x="443.96" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-24: 2685614 tokens</title></rect>
+<rect data-date="2026-10-25" data-col="47" data-row="6" data-level="1" x="443.96" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-25: 2780561 tokens</title></rect>
+<rect data-date="2026-10-26" data-col="48" data-row="0" data-level="1" x="452.30" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-26: 7129864 tokens</title></rect>
+<rect data-date="2026-10-27" data-col="48" data-row="1" data-level="1" x="452.30" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-27: 10560971 tokens</title></rect>
+<rect data-date="2026-10-28" data-col="48" data-row="2" data-level="1" x="452.30" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-28: 8753024 tokens</title></rect>
+<rect data-date="2026-10-29" data-col="48" data-row="3" data-level="1" x="452.30" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-29: 1301194 tokens</title></rect>
+<rect data-date="2026-10-30" data-col="48" data-row="4" data-level="1" x="452.30" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-30: 6990250 tokens</title></rect>
+<rect data-date="2026-10-31" data-col="48" data-row="5" data-level="1" x="452.30" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-10-31: 626210 tokens</title></rect>
+<rect data-date="2026-11-01" data-col="48" data-row="6" data-level="1" x="452.30" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-01: 930715 tokens</title></rect>
+<rect data-date="2026-11-02" data-col="49" data-row="0" data-level="1" x="460.64" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-02: 1665308 tokens</title></rect>
+<rect data-date="2026-11-03" data-col="49" data-row="1" data-level="1" x="460.64" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-03: 1626601 tokens</title></rect>
+<rect data-date="2026-11-04" data-col="49" data-row="2" data-level="1" x="460.64" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-04: 357937 tokens</title></rect>
+<rect data-date="2026-11-05" data-col="49" data-row="3" data-level="1" x="460.64" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-05: 2267149 tokens</title></rect>
+<rect data-date="2026-11-06" data-col="49" data-row="4" data-level="1" x="460.64" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-06: 2162096 tokens</title></rect>
+<rect data-date="2026-11-07" data-col="49" data-row="5" data-level="1" x="460.64" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-07: 4135712 tokens</title></rect>
+<rect data-date="2026-11-08" data-col="49" data-row="6" data-level="1" x="460.64" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-08: 6636447 tokens</title></rect>
+<rect data-date="2026-11-09" data-col="50" data-row="0" data-level="1" x="468.98" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-09: 10572823 tokens</title></rect>
+<rect data-date="2026-11-10" data-col="50" data-row="1" data-level="1" x="468.98" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-10: 13613295 tokens</title></rect>
+<rect data-date="2026-11-11" data-col="50" data-row="2" data-level="1" x="468.98" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-11: 8866801 tokens</title></rect>
+<rect data-date="2026-11-12" data-col="50" data-row="3" data-level="1" x="468.98" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-12: 8701101 tokens</title></rect>
+<rect data-date="2026-11-13" data-col="50" data-row="4" data-level="1" x="468.98" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-13: 2357421 tokens</title></rect>
+<rect data-date="2026-11-14" data-col="50" data-row="5" data-level="1" x="468.98" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-14: 3458893 tokens</title></rect>
+<rect data-date="2026-11-15" data-col="50" data-row="6" data-level="1" x="468.98" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-15: 2525339 tokens</title></rect>
+<rect data-date="2026-11-16" data-col="51" data-row="0" data-level="1" x="477.32" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-16: 4291803 tokens</title></rect>
+<rect data-date="2026-11-17" data-col="51" data-row="1" data-level="1" x="477.32" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-17: 14405824 tokens</title></rect>
+<rect data-date="2026-11-18" data-col="51" data-row="2" data-level="1" x="477.32" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-18: 10093148 tokens</title></rect>
+<rect data-date="2026-11-19" data-col="51" data-row="3" data-level="1" x="477.32" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-19: 8155017 tokens</title></rect>
+<rect data-date="2026-11-20" data-col="51" data-row="4" data-level="2" x="477.32" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#b695f1"><title>2026-11-20: 31330677 tokens</title></rect>
+<rect data-date="2026-11-21" data-col="51" data-row="5" data-level="3" x="477.32" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#9968ef"><title>2026-11-21: 46063955 tokens</title></rect>
+<rect data-date="2026-11-22" data-col="51" data-row="6" data-level="4" x="477.32" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#7c3aed"><title>2026-11-22: 85696264 tokens</title></rect>
+<rect data-date="2026-11-23" data-col="52" data-row="0" data-level="1" x="485.66" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#d2c3f2"><title>2026-11-23: 11575608 tokens</title></rect>
+<text x="26" y="310.37735849056605" font-size="8" fill="#53647B" >2025-11-24 → 2026-11-23</text>
 <text x="410" y="310.37735849056605" font-size="8" fill="#53647B" text-anchor="end">Less</text>
 <rect x="417" y="303.37735849056605" width="8" height="8" rx="2" fill="#eff0f4"/>
 <rect x="428" y="303.37735849056605" width="8" height="8" rx="2" fill="#d2c3f2"/>
@@ -429,6 +423,6 @@
 <rect x="461" y="303.37735849056605" width="8" height="8" rx="2" fill="#7c3aed"/>
 <text x="494" y="310.37735849056605" font-size="8" fill="#53647B" text-anchor="end">More</text>
 <path d="M26 327.37735849056605H494" stroke="#DBE3ED"/>
-<text x="26" y="346.37735849056605" font-size="8" fill="#53647B" letter-spacing="1">UPDATED 2026-11-22</text>
+<text x="26" y="346.37735849056605" font-size="8" fill="#53647B" letter-spacing="1">UPDATED 2026-11-23</text>
 <text x="494" y="346.37735849056605" font-size="8" fill="#53647B" text-anchor="end" letter-spacing="1">LOCAL → GITHUB</text></g></g><rect x=".5" y=".5" width="519" height="363" rx="16" fill="none" stroke="#DBE3ED"/>
 </svg>
