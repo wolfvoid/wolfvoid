@@ -1,35 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="364" viewBox="0 0 520 364" role="img" aria-labelledby="title desc">
-<title id="title">Magpie AI Usage Statistics</title><desc id="desc">LAST 30 DAYS: 485350866 tokens, 56928 requests, 44 lifetime active days. Tokens equal input plus output.</desc>
+<title id="title">Magpie AI Usage Statistics</title><desc id="desc">LAST 30 DAYS: 699230805 tokens, 60210 requests, 45 lifetime active days. Tokens equal input plus output.</desc>
 <defs><linearGradient id="accent"><stop stop-color="#A855F7"/><stop offset=".55" stop-color="#6388EE"/><stop offset="1" stop-color="#22D3EE"/></linearGradient><linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#A855F7" stop-opacity=".25"/><stop offset="1" stop-color="#22D3EE" stop-opacity=".015"/></linearGradient><radialGradient id="glow"><stop stop-color="#A855F7" stop-opacity=".15"/><stop offset="1" stop-color="#0D1117" stop-opacity="0"/></radialGradient><clipPath id="card"><rect x=".5" y=".5" width="519" height="363" rx="16"/></clipPath></defs>
 <g clip-path="url(#card)"><rect width="520" height="364" fill="#0D1117"/><ellipse cx="416" cy="0" rx="338" ry="291.2" fill="url(#glow)"/><g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"><path d="M26 29l7-9 7 9-7 9z" fill="url(#accent)"/>
 <text x="49" y="33" font-size="14" fill="#F1F5F9" font-weight="750" letter-spacing="2">MAGPIE</text>
 <text x="494" y="32" font-size="9" fill="#9AAAC1" text-anchor="end" letter-spacing="1">LAST 30 DAYS</text>
 <path d="M26 46H494" stroke="#283347"/>
-<text x="26" y="79" font-size="30" fill="url(#accent)" font-weight="700" letter-spacing="-1">485M</text>
+<text x="26" y="79" font-size="30" fill="url(#accent)" font-weight="700" letter-spacing="-1">699M</text>
 <text x="26" y="96" font-size="9" fill="#9AAAC1" letter-spacing="1">TOKENS</text>
-<text x="182" y="79" font-size="30" fill="#F1F5F9" font-weight="700" letter-spacing="-1">56.9K</text>
+<text x="182" y="79" font-size="30" fill="#F1F5F9" font-weight="700" letter-spacing="-1">60.2K</text>
 <text x="182" y="96" font-size="9" fill="#9AAAC1" letter-spacing="1">REQUESTS</text>
-<text x="338" y="79" font-size="30" fill="#F1F5F9" font-weight="700" letter-spacing="-1">44</text>
+<text x="338" y="79" font-size="30" fill="#F1F5F9" font-weight="700" letter-spacing="-1">45</text>
 <text x="338" y="96" font-size="9" fill="#9AAAC1" letter-spacing="1">ACTIVE DAYS · ALL TIME</text>
 <g transform="translate(0 0)">
 <text x="14" y="119" font-size="9" fill="#9AAAC1" letter-spacing="1.5">TOKEN ACTIVITY</text>
 <path d="M14 148H246" stroke="#283347" stroke-dasharray="2 5"/>
 <path d="M14 165H246" stroke="#283347" stroke-dasharray="2 5"/>
-<path d="M14,165 L14.00,164.60 L22.00,162.84 L30.00,164.81 L38.00,164.71 L46.00,164.49 L54.00,164.50 L62.00,164.89 L70.00,164.30 L78.00,164.33 L86.00,163.72 L94.00,162.95 L102.00,161.73 L110.00,160.79 L118.00,162.26 L126.00,162.31 L134.00,164.27 L142.00,163.93 L150.00,164.22 L158.00,163.67 L166.00,160.55 L174.00,161.88 L182.00,162.48 L190.00,155.32 L198.00,150.76 L206.00,138.51 L214.00,131.00 L222.00,144.38 L230.00,164.36 L238.00,156.60 L246.00,164.82 L246,165Z" fill="url(#area)"/>
-<polyline points="14.00,164.60 22.00,162.84 30.00,164.81 38.00,164.71 46.00,164.49 54.00,164.50 62.00,164.89 70.00,164.30 78.00,164.33 86.00,163.72 94.00,162.95 102.00,161.73 110.00,160.79 118.00,162.26 126.00,162.31 134.00,164.27 142.00,163.93 150.00,164.22 158.00,163.67 166.00,160.55 174.00,161.88 182.00,162.48 190.00,155.32 198.00,150.76 206.00,138.51 214.00,131.00 222.00,144.38 230.00,164.36 238.00,156.60 246.00,164.82" fill="none" stroke="url(#accent)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M14,165 L14.00,163.72 L22.00,164.89 L30.00,164.83 L38.00,164.69 L46.00,164.70 L54.00,164.93 L62.00,164.58 L70.00,164.60 L78.00,164.24 L86.00,163.78 L94.00,163.06 L102.00,162.50 L110.00,163.37 L118.00,163.40 L126.00,164.57 L134.00,164.37 L142.00,164.54 L150.00,164.21 L158.00,162.36 L166.00,163.15 L174.00,163.50 L182.00,159.25 L190.00,156.55 L198.00,149.27 L206.00,144.81 L214.00,152.76 L222.00,164.62 L230.00,160.01 L238.00,131.00 L246.00,159.40 L246,165Z" fill="url(#area)"/>
+<polyline points="14.00,163.72 22.00,164.89 30.00,164.83 38.00,164.69 46.00,164.70 54.00,164.93 62.00,164.58 70.00,164.60 78.00,164.24 86.00,163.78 94.00,163.06 102.00,162.50 110.00,163.37 118.00,163.40 126.00,164.57 134.00,164.37 142.00,164.54 150.00,164.21 158.00,162.36 166.00,163.15 174.00,163.50 182.00,159.25 190.00,156.55 198.00,149.27 206.00,144.81 214.00,152.76 222.00,164.62 230.00,160.01 238.00,131.00 246.00,159.40" fill="none" stroke="url(#accent)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
 </g>
 <g transform="translate(260 0)">
 <text x="14" y="119" font-size="9" fill="#9AAAC1" letter-spacing="1.5">TOP MODELS</text>
 <text x="246" y="119" font-size="8" fill="#9AAAC1" text-anchor="end" letter-spacing="1">% OF TOKENS</text>
 <text x="14" y="139" font-size="10" fill="#F1F5F9" >claude-opus-5.5</text>
-<rect x="132" y="132" width="72" height="5" rx="2.5" fill="#283347"/><rect x="132" y="132" width="24.21" height="5" rx="2.5" fill="url(#accent)"/>
-<text x="246" y="139" font-size="10" fill="#9AAAC1" text-anchor="end">33.6%</text>
+<rect x="132" y="132" width="72" height="5" rx="2.5" fill="#283347"/><rect x="132" y="132" width="37.46" height="5" rx="2.5" fill="url(#accent)"/>
+<text x="246" y="139" font-size="10" fill="#9AAAC1" text-anchor="end">52%</text>
 <text x="14" y="161" font-size="10" fill="#F1F5F9" >gemini-4-hydrog…</text>
-<rect x="132" y="154" width="72" height="5" rx="2.5" fill="#283347"/><rect x="132" y="154" width="12.85" height="5" rx="2.5" fill="url(#accent)"/>
-<text x="246" y="161" font-size="10" fill="#9AAAC1" text-anchor="end">17.8%</text>
+<rect x="132" y="154" width="72" height="5" rx="2.5" fill="#283347"/><rect x="132" y="154" width="8.92" height="5" rx="2.5" fill="url(#accent)"/>
+<text x="246" y="161" font-size="10" fill="#9AAAC1" text-anchor="end">12.4%</text>
 <text x="14" y="183" font-size="10" fill="#F1F5F9" >gpt-6.2-sol</text>
-<rect x="132" y="176" width="72" height="5" rx="2.5" fill="#283347"/><rect x="132" y="176" width="5.60" height="5" rx="2.5" fill="url(#accent)"/>
-<text x="246" y="183" font-size="10" fill="#9AAAC1" text-anchor="end">7.8%</text>
+<rect x="132" y="176" width="72" height="5" rx="2.5" fill="#283347"/><rect x="132" y="176" width="3.96" height="5" rx="2.5" fill="url(#accent)"/>
+<text x="246" y="183" font-size="10" fill="#9AAAC1" text-anchor="end">5.5%</text>
 </g>
 <text x="26" y="208" font-size="8" fill="#9AAAC1" letter-spacing="1">DAILY TOKENS</text>
 <text x="494" y="208" font-size="8" fill="#9AAAC1" text-anchor="end">LAST 53 WEEKS</text>
@@ -410,15 +410,16 @@
 <rect data-date="2026-11-17" data-col="51" data-row="1" data-level="1" x="477.32" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#423365"><title>2026-11-17: 14405824 tokens</title></rect>
 <rect data-date="2026-11-18" data-col="51" data-row="2" data-level="1" x="477.32" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#423365"><title>2026-11-18: 10093148 tokens</title></rect>
 <rect data-date="2026-11-19" data-col="51" data-row="3" data-level="1" x="477.32" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#423365"><title>2026-11-19: 8155017 tokens</title></rect>
-<rect data-date="2026-11-20" data-col="51" data-row="4" data-level="2" x="477.32" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#643e96"><title>2026-11-20: 31330677 tokens</title></rect>
-<rect data-date="2026-11-21" data-col="51" data-row="5" data-level="2" x="477.32" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#643e96"><title>2026-11-21: 46063955 tokens</title></rect>
-<rect data-date="2026-11-22" data-col="51" data-row="6" data-level="4" x="477.32" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#a855f7"><title>2026-11-22: 85696264 tokens</title></rect>
-<rect data-date="2026-11-23" data-col="52" data-row="0" data-level="4" x="485.66" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#a855f7"><title>2026-11-23: 110008039 tokens</title></rect>
-<rect data-date="2026-11-24" data-col="52" data-row="1" data-level="3" x="485.66" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#864ac6"><title>2026-11-24: 66704588 tokens</title></rect>
+<rect data-date="2026-11-20" data-col="51" data-row="4" data-level="1" x="477.32" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#423365"><title>2026-11-20: 31330677 tokens</title></rect>
+<rect data-date="2026-11-21" data-col="51" data-row="5" data-level="1" x="477.32" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#423365"><title>2026-11-21: 46063955 tokens</title></rect>
+<rect data-date="2026-11-22" data-col="51" data-row="6" data-level="2" x="477.32" y="286.04" width="6.67" height="6.67" rx="1.87" fill="#643e96"><title>2026-11-22: 85696264 tokens</title></rect>
+<rect data-date="2026-11-23" data-col="52" data-row="0" data-level="3" x="485.66" y="236.00" width="6.67" height="6.67" rx="1.87" fill="#864ac6"><title>2026-11-23: 110008039 tokens</title></rect>
+<rect data-date="2026-11-24" data-col="52" data-row="1" data-level="2" x="485.66" y="244.34" width="6.67" height="6.67" rx="1.87" fill="#643e96"><title>2026-11-24: 66704588 tokens</title></rect>
 <rect data-date="2026-11-25" data-col="52" data-row="2" data-level="1" x="485.66" y="252.68" width="6.67" height="6.67" rx="1.87" fill="#423365"><title>2026-11-25: 2054772 tokens</title></rect>
 <rect data-date="2026-11-26" data-col="52" data-row="3" data-level="1" x="485.66" y="261.02" width="6.67" height="6.67" rx="1.87" fill="#423365"><title>2026-11-26: 27176501 tokens</title></rect>
-<rect data-date="2026-11-27" data-col="52" data-row="4" data-level="1" x="485.66" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#423365"><title>2026-11-27: 574986 tokens</title></rect>
-<text x="26" y="310.37735849056605" font-size="8" fill="#9AAAC1" >2025-11-24 → 2026-11-27</text>
+<rect data-date="2026-11-27" data-col="52" data-row="4" data-level="4" x="485.66" y="269.36" width="6.67" height="6.67" rx="1.87" fill="#a855f7"><title>2026-11-27: 185255081 tokens</title></rect>
+<rect data-date="2026-11-28" data-col="52" data-row="5" data-level="1" x="485.66" y="277.70" width="6.67" height="6.67" rx="1.87" fill="#423365"><title>2026-11-28: 30501038 tokens</title></rect>
+<text x="26" y="310.37735849056605" font-size="8" fill="#9AAAC1" >2025-11-24 → 2026-11-28</text>
 <text x="410" y="310.37735849056605" font-size="8" fill="#9AAAC1" text-anchor="end">Less</text>
 <rect x="417" y="303.37735849056605" width="8" height="8" rx="2" fill="#202734"/>
 <rect x="428" y="303.37735849056605" width="8" height="8" rx="2" fill="#423365"/>
@@ -427,6 +428,6 @@
 <rect x="461" y="303.37735849056605" width="8" height="8" rx="2" fill="#a855f7"/>
 <text x="494" y="310.37735849056605" font-size="8" fill="#9AAAC1" text-anchor="end">More</text>
 <path d="M26 327.37735849056605H494" stroke="#283347"/>
-<text x="26" y="346.37735849056605" font-size="8" fill="#9AAAC1" letter-spacing="1">UPDATED 2026-11-27</text>
+<text x="26" y="346.37735849056605" font-size="8" fill="#9AAAC1" letter-spacing="1">UPDATED 2026-11-28</text>
 <text x="494" y="346.37735849056605" font-size="8" fill="#9AAAC1" text-anchor="end" letter-spacing="1">LOCAL → GITHUB</text></g></g><rect x=".5" y=".5" width="519" height="363" rx="16" fill="none" stroke="#283347"/>
 </svg>
